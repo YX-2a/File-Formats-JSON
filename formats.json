@@ -1,0 +1,298 @@
+{
+ "List": [
+  {
+   ".png": "PNG Image"
+  },
+  {
+   ".avif": "AV1 Image"
+  },
+  {
+   ".avifs": "AV1 Image"
+  },
+  {
+   ".bmp": "Standard Bitmap Image"
+  },
+  {
+   ".pdf": "PDF Document"
+  },
+  {
+   ".jfif": "JPEG Image"
+  },
+  {
+   ".jpeg": "JPEG Image"
+  },
+  {
+   ".jpg": "JPEG Image"
+  },
+  {
+   ".txt": "Text Document"
+  },
+  {
+   ".gif": "GIF Image"
+  },
+  {
+   ".mp4": "MPEG Layer 4 Video/Audio"
+  },
+  {
+   ".m4a": "MPEG Layer 4 Audio"
+  },
+  {
+   ".m4r": "MPEG Layer 4 Audio"
+  },
+  {
+   ".m4b": "MPEG Layer 4 Audio"
+  },
+  {
+   ".m4p": "MPEG Layer 4 Audio"
+  },
+  {
+   ".m4v": "MPEG Layer 4 Video"
+  },
+  {
+   ".mp3": "MPEG Layer 3 Audio"
+  },
+  {
+   ".ogg": "OGG Vorbis Audio"
+  },
+  {
+   ".ogv": "OGG Theora Video"
+  },
+  {
+   ".wave": "WaveForm Audio"
+  },
+  {
+   ".wav": "WaveForm Audio"
+  },
+  {
+   ".3gp": "3GP Video/Audio"
+  },
+  {
+   ".3gpp": "3GP Video/Audio"
+  },
+  {
+   ".3g2": "3G2 Video/Audio"
+  },
+  {
+   ".3gp2": "3G2 Video/Audio"
+  },
+  {
+   ".3gpp": "3GP2 Video/Audio"
+  },
+  {
+   ".avi": "AVI Video"
+  },
+  {
+   ".aif": "Apple AIFF Audio"
+  },
+  {
+   ".aiff": "Apple AIFF Audio"
+  },
+  {
+   ".aifc": "Apple AIFF Audio"
+  },
+  {
+   ".heic": "HEIC Image/Video"
+  },
+  {
+   ".heif": "HEIF Image"
+  },
+  {
+   ".hif": "HEIF Image"
+  },
+  {
+   ".wma": "Windows Audio"
+  },
+  {
+   ".wmv": "Windows Video"
+  },
+  {
+   ".asf": "ASF Video/Audio"
+  },
+  {
+   ".py": "Python Script"
+  },
+  {
+   ".pyw": "Python Script"
+  },
+  {
+   ".exe": "Executable Program"
+  },
+  {
+   ".mkv": "Matroska Video"
+  },
+  {
+   ".mov": "QuickTime Video"
+  },
+  {
+   ".md": "Mark Down Document"
+  },
+  {
+   ".xml": "XML Mark Down Document"
+  },
+  {
+   ".html": "Html Web page"
+  },
+  {
+   ".htm": "Html Web Page"
+  },
+  {
+   ".css": "CSS Style Sheet"
+  },
+  {
+   ".js": "JavaScript Script"
+  },
+  {
+   ".json": "JSON Data"
+  },
+  {
+   ".csv": "CSV Data"
+  },
+  {
+   ".doc": "Legacy MS Word Document"
+  },
+  {
+   ".docx": "MS Word Document"
+  },
+  {
+   ".xls": "Legacy MS Excel WorkBook"
+  },
+  {
+   ".xlsx": "MS Excel WorkBook"
+  },
+  {
+   ".ppt": "Legacy MS PowerPoint Presentation"
+  },
+  {
+   ".pps": "Legacy MS PowerPoint SlideShow"
+  },
+  {
+   ".pptx": "MS PowerPoint Presentation"
+  },
+  {
+   ".ppsx": "MS PowerPoint SlideShow"
+  },
+  {
+   ".odt": "OpenDocument Word Document"
+  },
+  {
+   ".fodt": "OpenDocument Flat XML Word Document"
+  },
+  {
+   ".ods": "OpenDocument SpreadSheet"
+  },
+  {
+   ".fods": "OpenDocument Flat XML SpreadSheet"
+  },
+  {
+   ".odp": "OpenDocument Presentation"
+  },
+  {
+   ".fodp": "OpenDocument Flat XML Presentation"
+  },
+  {
+   ".odg": "OpenDocument Graphical Document"
+  },
+  {
+   ".fodg": "OpenDocument Flat XML Graphical Document"
+  },
+  {
+   ".odf": "OpenDocument Math Formula Document"
+  },
+  {
+   ".wpd" : "WordPerfect Word Document"
+  },
+  {
+   ".rtf" : "Rich Text Document"
+  },
+  {
+   ".xcf": "GIMP Project"
+  },
+  {
+   ".kra": "Krita Project"
+  },
+  {
+   ".psd": "Adobe Photoshop Project"
+  },
+  {
+   ".icns": "Apple Icon Image"
+  },
+  {
+   ".ico": "Standard Icon Image"
+  },
+  {
+   ".java": "Java Source Code"
+  },
+  {
+   ".jar": "Java Archive"
+  },
+  {
+   ".c": "C/C++ Source Code"
+  },
+  {
+   ".cpp": "C++ Source Code"
+  },
+  {
+   ".cs": "C# Source Code"
+  },
+  {
+   ".ora": "OpenRaster Image"
+  },
+  {
+   ".cur": "Cursor Image"
+  },
+  {
+   ".tif": "TIFF Image"
+  },
+  {
+   ".tiff": "TIFF Image"
+  },
+  {
+   ".jxl": "JPEG XL Image"
+  },
+  {
+   ".eps": "Adobe Encapsulated PostScript Vector Image"
+  },
+  {
+   ".epsf": "Adobe Encapsulated PostScript Vector Image"
+  },
+  {
+   ".epsi": "Adobe Encapsulated PostScript Vector Image"
+  },
+  {
+   ".ps": "Adobe PostScript Document"
+  },
+  {
+   ".cdr": "CorelDraw Vector Image"
+  },
+  {
+   ".svg": "Standard Vector Image"
+  },
+  {
+   ".ppm": "Portable Pixmap Image"
+  },
+  {
+   ".pgm": "Portable Graymap Image"
+  },
+  {
+   ".pbm": "Portable Bitmap Image"
+  },
+  {
+   ".pnm": "Portable Anymap Image"
+  },
+  {
+   ".wepb": "WEBP Image"
+  },
+  {
+   ".bat": "Batch Script"
+  },
+  {
+   ".rar": "WinRAR Compressed Archive"
+  },
+  {
+   ".zip": "Zip Compressed Archive"
+  },
+  {
+   ".7z": "7Zip Compressed Archive"
+  }
+ ]
+}
