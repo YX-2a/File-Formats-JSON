@@ -293,6 +293,93 @@
   },
   {
    ".7z": "7Zip Compressed Archive"
+  },
+  {
+  ".blend":"Blender Project"
+  },
+  {
+  ".blend1":"Blender Project"
+  },
+  {
+  ".bz":"Bzip Compressed Archive"
+  },
+  {
+  ".bz2":"Bzip2 Compressed Archive"
+  },
+  {
+  ".lz":"Lzip Compressed Archive"
+  },
+  {
+  ".lzh":"LHA Compressed Archive"
+  },
+  {
+  ".gz":"Gzip Compressed Archive"
+  },
+  {
+  ".xz":"XZ Compressed Archive"
+  },
+  {
+  ".lha":"LHA Compressed Archive"
+  },
+  {
+  ".z":"Pack Compressed Archive"
+  },
+  {
+  ".Z":"Compress Compressed Archive"
+  },
+  {
+  ".tar":"Tar Archive"
+  },
+  {
+  ".taz":"Tar Archived, Gzip Compressed"
+  },
+  {
+  ".tgz":"Tar Archived, Gzip Compressed"
+  },
+  {
+  ".tbz":"Tar Archived, Bzip Compressed"
+  },
+  {
+  ".tbz2":"Tar Archived, Bzip2 Compressed"
+  },
+  {
+  ".tlz":"Tar Archived, LZMA Compressed"
+  },
+  {
+  ".txz":"Tar Archived, XZ Compressed"
+  },
+  {
+  ".tb2":"Tar Archived, Bzip2 Compressed"
+  },
+  {
+  ".tz2":"Tar Archived, Bzip2 Compressed"
+  },
+  {
+  ".lzma":"LZMA Compressed Archive"
+  },
+  {
+  ".tZ":"Tar Archived, Compress Compressed"
+  },
+  {
+  ".taZ":"Tar Archived, Compress Compressed"
+  },
+  {
+  ".tzst":"Tar Archived, Zstandard Compressed"
+  },
+  {
+  ".zst":"Zstandard Compressed Archive"
+  },
+  {
+  ".lrz":"Lrzip Compressed Archive"
+  },
+  {
+  ".sz":"Snappy Framed Compressed Archive"
+  },
+  {
+  ".lzo":"Lzop Compressed Archive"
+  },
+  {
+  ".br":"Brotli Compressed Archive"
   }
  ]
 }
