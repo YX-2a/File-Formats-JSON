@@ -13,4 +13,4 @@ Before comitting a change here are on some ground rules:
 4.If a file type has multiple extentions, you can write them in seperate JSON objects inside the array.
 
 5.For OS Specific or Progam Specific File Formats, 
-The OS or Program Should Be Specified in the "file_type" either by adding the name of the OS (or OS Family) or Program First. 
+The OS or Program Should Be Specified in the "file_type" by adding the name of the OS (or OS Family) or Program First. 
