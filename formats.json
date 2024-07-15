@@ -115,7 +115,7 @@
    ".pyw": "Python Script"
   },
   {
-   ".exe": "Executable Program"
+   ".exe": "Windows Executable Program"
   },
   {
    ".mkv": "Matroska Video"
@@ -283,7 +283,7 @@
    ".wepb": "WEBP Image"
   },
   {
-   ".bat": "Batch Script"
+   ".bat": "Windows Batch Script"
   },
   {
    ".rar": "WinRAR Compressed Archive"
@@ -380,6 +380,72 @@
   },
   {
   ".br":"Brotli Compressed Archive"
+  },
+  {
+  ".sh":"Bash Shell Script"
+  },
+  {
+  ".so":"Unix Shared Library"
+  },
+  {
+  ".dll":"Windows Shared Library"
+  },
+  {
+  ".elf":"Unix Executable Program"
+  },
+  {
+  ".app":"HarmonyOS Application Package"
+  },
+  {
+  ".hap":"HarmonyOS Application Package"
+  },
+  {
+  ".apk":"Android Application Package"
+  },
+  {
+  ".apks":"Android Application Package"
+  },
+  {
+  ".xapk":"Android Application Package"
+  },
+  {
+  ".aab":"Android Application Package"
+  },
+  {
+  ".apkm":"Android Application Package"
+  },
+  {
+  ".akp":"Android Application Package"
+  },
+  {
+  ".deb":"Debian Application Package"
+  },
+  {
+  ".udeb":"Debian Application Package"
+  },
+  {
+  ".rpm":"SUSE/RedHat Application Package"
+  },
+  {
+  ".ipa":"IOS Application Package"
+  },
+  {
+  ".flatpak":"Flatpak Application Package"
+  },
+  {
+  ".pkg":"Unix Application Package"
+  },
+  {
+  ".msi":"Windows Installer Package"
+  },
+  {
+  ".msp":"Windows Installer Package"
+  },
+  {
+  ".snap":"Snap Application Package "
+  },
+  {
+  ".appimage":"AppImage Portable Application"
   }
  ]
 }
