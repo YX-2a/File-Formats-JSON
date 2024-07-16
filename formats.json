@@ -217,7 +217,7 @@
    ".icns": "Apple Icon Image"
   },
   {
-   ".ico": "Standard Icon Image"
+   ".ico": "Windows Icon Image"
   },
   {
    ".java": "Java Source Code"
@@ -238,7 +238,7 @@
    ".ora": "OpenRaster Image"
   },
   {
-   ".cur": "Cursor Image"
+   ".cur": "Windows Cursor Image"
   },
   {
    ".tif": "TIFF Image"
@@ -446,6 +446,96 @@
   },
   {
   ".appimage":"AppImage Portable Application"
+  },
+  {
+  ".ai":"Adobe Illustrator Project"
+  },
+  {
+  ".indd":"Adobe InDesign"
+  },
+  {
+  ".cp":"Adobe Captivate Project\ C++ Source Code"
+  },
+  {
+  ".cptx":"Adobe Captivate Project"
+  },
+  {
+  ".fla":"Adobe Flash/Animate Project"
+  },
+  {
+  ".xd":"Adobe XD Mockup"
+  },
+  {
+  ".lrcat":"Adobe Lightroom Catalog"
+  },
+  {
+  ".prproj":"Adobe Premier Pro Project"
+  },
+  {
+  ".aep":"Adobe After Effects Project"
+  },
+  {
+  "aepx":"Adobe After Effects XML Project"
+  },
+  {
+  ".asnd":"Adobe Sound Document"
+  },
+  {
+  ".dae":"Collada 3D Object"
+  },
+  {
+  ".fbx":"Autodesk FBX 3D Object"
+  },
+  {
+  ".obj":"Wavefront 3D Object"
+  },
+  {
+  ".bvh":"Motion Capture Data"
+  },
+  {
+  ".ply":"Stanford 3D Object"
+  },
+  {
+  ".x3d":"Extensible 3D Object"
+  },
+  {
+  ".wlr":"Extensible 3D Object"
+  },
+  {
+  ".stl":"Stereolithographic 3D Object"
+  },
+  {
+  ".3ds":"Autodesk 3ds Max 3D Object"
+  },
+  {
+  ".scr":"Windows Screen Saver"
+  },
+  {
+  ".in":"GNU Autoconf Input"
+  },
+  {
+  ".lnk":"Windows Shortcut"
+  },
+  {
+  ".desktop":"Unix Desktop Entry"
+  },
+  {
+  ".vhd":"Microsoft Virtual PC/Virtual Server Virtual Hard Disk"
+  },
+  {
+  ".vfd":"Microsoft Virtual PC/Virtual Server Virtual Floppy Disk"
+  },
+  {
+  ".vmdk":"Virtual Machine Disk"
+  },
+  {
+  ".vdi":"VirtualBox Virtual Disk Image"
+  },
+  {
+  ".vbox":"VirtualBox Virtual Machine"
+  },
+  {
+  ".ani":"Windows Animated Cursor"
   }
  ]
 }
