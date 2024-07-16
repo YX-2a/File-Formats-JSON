@@ -124,10 +124,10 @@
    ".mov": "QuickTime Video"
   },
   {
-   ".md": "Mark Down Document"
+   ".md": "MarkDown Document"
   },
   {
-   ".xml": "XML Mark Down Document"
+   ".xml": "XML Markup Document"
   },
   {
    ".html": "Html Web page"
