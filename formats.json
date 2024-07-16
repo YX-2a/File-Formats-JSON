@@ -454,7 +454,7 @@
   ".indd":"Adobe InDesign"
   },
   {
-  ".cp":"Adobe Captivate Project\ C++ Source Code"
+  ".cp":"Adobe Captivate Project/C++ Source Code"
   },
   {
   ".cptx":"Adobe Captivate Project"
@@ -475,7 +475,7 @@
   ".aep":"Adobe After Effects Project"
   },
   {
-  "aepx":"Adobe After Effects XML Project"
+  ".aepx":"Adobe After Effects XML Project"
   },
   {
   ".asnd":"Adobe Sound Document"
