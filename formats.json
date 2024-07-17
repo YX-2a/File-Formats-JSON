@@ -439,7 +439,7 @@
   ".msi":"Windows Installer Package"
   },
   {
-  ".msp":"Windows Installer Package"
+  ".msp":"Windows Patch Installer Package"
   },
   {
   ".snap":"Snap Application Package "
