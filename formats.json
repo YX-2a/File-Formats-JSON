@@ -536,6 +536,93 @@
   },
   {
   ".ani":"Windows Animated Cursor"
+  },
+  {
+  ".webm":"Webm Video/Audio"
+  },
+  {
+  ".a68":"ALGOL 68 Source Code"
+  },
+  {
+  ".adb":"Ada Source Code"
+  },
+  {
+  ".ads":"Ada Source Code"
+  },
+  {
+  ".f90":"Fortran 90 Source Code"
+  },
+  {
+  ".f":"Fortran Source Code"
+  },
+  {
+  ".for":"Fortran Source Code"
+  },
+  {
+  ".d":"Dlang Source Code"
+  },
+  {
+  ".jl":"Julia Script"
+  },
+  {
+  ".lua":"LUA Script"
+  },
+  {
+  ".tcl":"TCL Script"
+  },
+  {
+  ".tcb":"TCL Script"
+  },
+  {
+  ".vbs":"Visual Basic Script"
+  },
+  {
+  ".ps1":"PowerShell Script"
+  },
+  {
+  ".plx":"Perl Script"
+  },
+  {
+  ".pl":"Perl Script"
+  },
+  {
+  ".pls":"Perl Script"
+  },
+  {
+  ".pm":"Perl Script"
+  },
+  {
+  ".php":"PHP Script"
+  },
+  {
+  ".v":"Vlang Source Code"
+  },
+  {
+  ".vsh":"Vlang Source Code"
+  },
+  {
+  ".vala":"Vala Source Code"
+  },
+  {
+  ".vapi":"Vala Source Code"
+  },
+  {
+  ".fts":"FITS Image/Data"
+  },
+  {
+  ".fits":"FITS Image/Data"
+  },
+  {
+  ".r":"R Script"
+  },
+  {
+  ".zig":"ZIG Source Code"
+  },
+  {
+  ".zsh":"ZShell Shell Script"
+  },
+  {
+  ".asm":"Assembly Source Code"
   }
  ]
 }
