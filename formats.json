@@ -10,7 +10,7 @@
    ".avifs": "AV1 Image"
   },
   {
-   ".bmp": "Standard Bitmap Image"
+   ".bmp": "Windows Bitmap Image"
   },
   {
    ".pdf": "PDF Document"
