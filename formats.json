@@ -623,6 +623,123 @@
   },
   {
   ".asm":"Assembly Source Code"
-  }
+  },
+  {
+  ".flv":"Adobe Flash Video"
+  },
+  {
+  ".vob":"DVD Video"
+  },
+  {
+  ".drc":"Dirac Video"
+  },
+  {
+  ".apng":"Animated Png Image"
+  },
+  {
+  ".mng":"MNG Video"
+  },
+  {
+  ".rm":"RealPlayer Video"
+  },
+  {
+  ".viv":"VivoActive Video"
+  },
+  {
+  ".amv":"AMV Video"
+  },
+  {
+  ".mpeg":"MPEG Layer 1/2 Video/Audio"
+  },
+  {
+  ".mpg":"MPEG Layer 1/2 Video/Audio"
+  },
+  {
+  ".mpe":"MPEG Layer 2 Video"
+  },
+  {
+  ".mp1":"MPEG Layer 1 Audio"
+  },
+  {
+  ".mp2":"MPEG Layer 2 Audio"
+  },
+  {
+  ".m1a":"MPEG Layer 1 Audio"
+  },
+  {
+  ".m2a":"MPEG Layer 2 Audio"
+  },
+  {
+  ".m2v":"MPEG Layer 2 Video"
+  },
+  {
+  ".mpv":"MPEG Layer 2 Video"
+  },
+  {
+  ".m1v":"MPEG Layer 1 Video"
+  },
+  {
+  ".mpa":"MPEG Layer 2 Audio"
+  },
+  {
+  ".rmvb":"RealPlayer Video"
+  },
+  {
+  ".mxf":"MXF Video"
+  },
+  {
+  ".nsv":"Nullsoft Online Video"
+  },
+  {
+  ".arw":"Raw Sony Alpha Camera Footage"
+  },
+  {
+  ".crw":"CIFF Camera Image"
+  },
+  {
+  ".dng":"DNG Camera Image "
+  },
+  {
+  ".mdc":"Raw Minolta RD-175 Camera Footage"
+  },
+  {
+  ".mrw":"Raw Konica Minolta Alpha Camera Footage"
+  },
+  {
+  ".orf":"Raw Olympus Camera Footage"
+  },
+  {
+  ".r3d":"Raw Red Digital Cinema Camera Footage"
+  },
+  {
+  ".sr2":"Raw Sony Cyber-shot DSC-R1 Camera Footage"
+  },
+  {
+  ".srf":"Raw Sony Cyber-shot Camera Footage"
+  },
+  {
+  ".pxn":"Raw Logitech Camera Footage"
+  },
+  {
+  ".raf":"Raw Fujifilm Camera Footage"
+  },
+  {
+  ".srw":"Raw Samsung Camera Footage"
+  },
+  {
+  ".ari":"Raw Arri Alexa Camera Footage"
+  },
+  {
+  ".raw":"Raw Camera Footage"
+  },
+  {
+  ".vcd":"Visual CD Disk Image"
+  },
+  {
+  ".dmg":"Apple Disk Image"
+  },
+  {
+  ".iso":"Optical Disk Image"
+  } 
  ]
 }
