@@ -385,7 +385,7 @@
   ".sh":"Bash Shell Script"
   },
   {
-  ".so":"Unix Shared Library"
+  ".so":"Unix Dynamic Shared Library"
   },
   {
   ".dll":"Windows Shared Library"
@@ -574,7 +574,7 @@
   ".tcb":"TCL Script"
   },
   {
-  ".vbs":"Visual Basic Script"
+  ".vbs":"VBScript Script"
   },
   {
   ".ps1":"PowerShell Script"
@@ -740,6 +740,225 @@
   },
   {
   ".iso":"Optical Disk Image"
-  } 
+  }, 
+  {
+  ".divx":"DivX Video"
+  }, 
+  {
+  ".dv":"Digital Video 720x576 Video"
+  }, 
+  {
+  ".bpg":"BPG Image"
+  }, 
+  {
+  ".omg":"OpenMG-encrypted Audio"
+  }, 
+  {
+  ".oma":"OpenMG-encrypted Audio"
+  }, 
+  {
+  ".m2p":"MPEG Program Stream Video"
+  },  
+  {
+  ".tsv":"MPEG Transport Stream Video"
+  }, 
+  {
+  ".tsa":"MPEG Transport Stream Video"
+  }, 
+  {
+  ".m2t":"MPEG Transport Stream Video"
+  }, 
+  {
+  ".mxf":"MXF Video/Audio"
+  }, 
+  {
+  ".caf":"Apple CAF Audio"
+  }, 
+  {
+  ".gxf":"GXF Video"
+  }, 
+  {
+  ".m3u8":"HLS Video"
+  }, 
+  {
+  ".roq":"Id Software Video"
+  }, 
+  {
+  ".ivf":"Indeo Video"
+  }, 
+  {
+  ".smk":"Smacker Video"
+  }, 
+  {
+  ".8svx":"EA/Commodore 8bit Audio"
+  }, 
+  {
+  ".amr":"AMR Audio"
+  }, 
+  {
+  ".aa3":"ATRAC Audio"
+  }, 
+  {
+  ".at3":"ATRAC Audio"
+  }, 
+  {
+  ".at9":"ATRAC Audio"
+  }, 
+  {
+  ".atp":"ATRAC Audio"
+  }, 
+  {
+  ".ra":"RealAudio Audio"
+  }, 
+  {
+  ".ram":"RealAudio Audio"
+  }, 
+  {
+  ".flac":"FLAC Audio"
+  }, 
+  {
+  ".opus":"OPUS Audio"
+  }, 
+  {
+  ".wv":"WavPack Audio"
+  }, 
+  {
+  ".wvc":"WavPack Correction Audio"
+  }, 
+  {
+  ".spx":"Speex Audio"
+  }, 
+  {
+  ".xspf":"XML Shareable Playlist"
+  }, 
+  {
+  ".cpio":"CPIO Archive"
+  }, 
+  {
+  ".a":"Unix Static Library"
+  }, 
+  {
+  ".shar":"SHAR Self-Extracting Archive"
+  }, 
+  {
+  ".wad":"DOOM Game Data"
+  }, 
+  {
+  ".warc":"Web ARChive Archive"
+  }, 
+  {
+  ".war":"Java Archive"
+  }, 
+  {
+  ".ark":"ARC Compressed Archive"
+  }, 
+  {
+  ".arc":"ARC Compressed Archive"
+  }, 
+  {
+  ".appx":"Microsoft App Package"
+  }, 
+  {
+  ".ear":"Java Entreprise Archive"
+  }, 
+  {
+  ".ts":"Typescript Script"
+  }, 
+  {
+  ".tsx":"Typescript Script"
+  }, 
+  {
+  ".vb":"Visual Basic Script"
+  }, 
+  {
+  ".smallbasic":"Small Basic Script"
+  }, 
+  {
+  ".sb":"Small Basic Script"
+  }, 
+  {
+  ".ml":"OCaml Script"
+  }, 
+  {
+  ".mli":"OCaml Script"
+  }, 
+  {
+  ".rb":"Ruby Script"
+  }, 
+  {
+  ".sc":"Scala Script"
+  }, 
+  {
+  ".scala":"Scala Script"
+  }, 
+  {
+  ".pro":"QT Creator Project"
+  }, 
+  {
+  ".qml":"QT Markup Document"
+  }, 
+  {
+  ".glade":"GTK XML Interface"
+  }, 
+  {
+  ".xaml":"Microsoft XAML Document"
+  }, 
+  {
+  ".toml":"TOML Document"
+  }, 
+  {
+  ".reb":"REBOL Script"
+  }, 
+  {
+  ".cfg":"Application Specific Configuration Text"
+  }, 
+  {
+  ".conf":"Application Specific Configuration Text"
+  }, 
+  {
+  ".wsd":"WordStar Word Document"
+  }, 
+  {
+  ".yaml":"YAML Document"
+  }, 
+  {
+  ".yml":"YAML Document"
+  }, 
+  {
+  ".atom":"ATOM Document"
+  }, 
+  {
+  ".plist":"Apple Proprety List"
+  }, 
+  {
+  ".clj":"Clojure Lisp Script"
+  }, 
+  {
+  ".qs":"Q# Script"
+  }, 
+  {
+  ".verona":"Verona Source Code"
+  }, 
+  {
+  ".p":"P Script"
+  }, 
+  {
+  ".fst":"F* Script"
+  }, 
+  {
+  ".fsscript":"F# Script"
+  }, 
+  {
+  ".fsx":"F# Script"
+  }, 
+  {
+  ".fs":"F# Script"
+  }, 
+  {
+  ".dfy":"Dafny Source Code"
+  }, 
+  {
+  ".bsq":"Bosque Script"
+  }
  ]
 }
