@@ -959,6 +959,159 @@
   }, 
   {
   ".bsq":"Bosque Script"
+  }, 
+  {
+  ".h":"C/C++ Header"
+  }, 
+  {
+  ".hpp":"C++ Header"
+  }, 
+  {
+  ".hpkg":"Haiku Application Package"
+  }, 
+  {
+  ".hpk":"HPack Compressed Archive"
+  }, 
+  {
+  ".hlp":"Windows Help"
+  }, 
+  {
+  ".info":"Texinfo Help"
+  }, 
+  {
+  ".man":"Unix ManPage Help"
+  }, 
+  {
+  ".rd":"R Documentation"
+  }, 
+  {
+  ".sqlite":"Sqlite Data Base"
+  }, 
+  {
+  ".cow":"Cowsay Text"
+  }, 
+  {
+  ".o":"Compiled C Object"
+  }, 
+  {
+  ".ko":"Compiled C Object"
+  }, 
+  {
+  ".gch":"Precompiled C/C++ Header"
+  }, 
+  {
+  ".pch":"Precompiled C/C++ Header"
+  }, 
+  {
+  ".lib":"Microsoft Static Library"
+  }, 
+  {
+  ".lo":"Unix Object Library"
+  }, 
+  {
+  ".la":"Unix Object Library"
+  }, 
+  {
+  ".out":"Unix Executable Program"
+  }, 
+  {
+  ".su":"Unix Executable Program"
+  }, 
+  {
+  ".hex":"Hexadecimal Data"
+  }, 
+  {
+  ".dwo":"DWARF C/C++ Object"
+  }, 
+  {
+  ".bin":"Binary Data"
+  }, 
+  {
+  ".dylib":"Apple Dynamic Library"
+  }, 
+  {
+  ".swp":"Vim Swap"
+  }, 
+  {
+  ".order":"ORDER Linker Text"
+  }, 
+  {
+  ".6":"Unix ManPage Help"
+  }, 
+  {
+  ".src":"Source Code"
+  }, 
+  {
+  ".dwp":"DWARF Package"
+  }, 
+  {
+  ".accdb":"MS Access Database"
+  }, 
+  {
+  ".accde":"Compiled MS Access Database"
+  }, 
+  {
+  ".lisp":"Common Lisp Source Code"
+  }, 
+  {
+  ".lsp":"Common Lisp Source Code"
+  }, 
+  {
+  ".el":"Emacs Lisp Script"
+  }, 
+  {
+  ".hy":"Hy Lisp Script"
+  }, 
+  {
+  ".fasl":"Maclisp Lisp Script"
+  }, 
+  {
+  ".rkt":"Racket Lisp Script"
+  },  
+  {
+  ".l":"PicoLisp Lisp Script"
+  }, 
+  {
+  ".lfe":"LFE Lisp Script"
+  }, 
+  {
+  ".bf":"BrainFuck Source Code"
+  }, 
+  {
+  ".mb":"Malbolge Source Code"
+  }, 
+  {
+  ".lol":"LOLCODE Script"
+  }, 
+  {
+  ".hs":"Haskell Source Code"
+  }, 
+  {
+  ".swift":"Swift Source Code"
+  }, 
+  {
+  ".purs":"PureScript Script"
+  }, 
+  {
+  ".rs":"Rust Source Code"
+  }, 
+  {
+  ".jpp":"JS++ Script"
+  }, 
+  {
+  ".bsv":"Bluespec SystemVerilog Script"
+  }, 
+  {
+  ".coffee":"CoffeeScript Script"
+  }, 
+  {
+  ".m":"Mercury Source Code"
+  }, 
+  {
+  ".tex":"TeX Document"
+  }, 
+  {
+  ".dat":"Application Specific Data"
   }
  ]
 }
