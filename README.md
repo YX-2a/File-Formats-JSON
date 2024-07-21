@@ -6,7 +6,7 @@ Before comitting a change here are on some ground rules:
 
 1.The Format Should Be : {"file_Extension" : "file_type"} with the brackets in separate lines to improve human readability.
 
-2.Never ever say "File" when writing "file_type" as it is ambiguous. 
+2.Never ever say "File" or "Format" when writing "file_type" as it is ambiguous. 
 
 3.Capitalize every first letter of each word when writing "file_type" (Pascal Case).
 
