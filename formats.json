@@ -1112,6 +1112,126 @@
   }, 
   {
   ".dat":"Application Specific Data"
+  }, 
+  {
+  ".am":"Automake Configuration"
+  }, 
+  {
+  ".sub":"DVD Subtitles"
+  }, 
+  {
+  ".sup":"DVD Subtitles"
+  }, 
+  {
+  ".cptl":"Adobe Captivate project template"
+  }, 
+  {
+  ".dart":"Dart Script"
+  }, 
+  {
+  ".go":"Go Source Code"
+  }, 
+  {
+  ".ump":"Umple Script"
+  }, 
+  {
+  ".red":"Red Script"
+  }, 
+  {
+  ".re":"Reason Script"
+  }, 
+  {
+  ".kt":"Kotlin Script"
+  }, 
+  {
+  ".dpx":"DPX Image"
+  }, 
+  {
+  ".cin":"Cineon Image"
+  }, 
+  {
+  ".axx":"AXX Encrypted"
+  }, 
+  {
+  ".epm":"EPM Encrypted"
+  }, 
+  {
+  ".exr":"OpenEXR Image"
+  }, 
+  {
+  ".hdr":"HDR Image"
+  }, 
+  {
+  ".pgp":"PGP Public Key"
+  },
+  {
+  ".gpg":"GPG Encrypted"
+  }, 
+  {
+  ".iges":"IGES CAD Data"
+  }, 
+  {
+  ".igs":"IGES CAD Data"
+  }, 
+  {
+  ".ij":"JT CAD Data"
+  }, 
+  {
+  ".x_b":"Parasolid Text"
+  }, 
+  {
+  ".prt":"Pro/ENGINEER Part"
+  }, 
+  {
+  ".3dm":"Rhino CAD Data"
+  }, 
+  {
+  ".step":"STEP CAD Data"
+  }, 
+  {
+  ".^^^":"Pervasive SQL Database"
+  }, 
+  {
+  ".sql":"SQL Data"
+  }, 
+  {
+  ".rom":"ROM Image"
+  }, 
+  {
+  ".dxb":"DXB Binary"
+  }, 
+  {
+  ".model":"CATIA V4 Model"
+  }, 
+  {
+  ".ipt":"Autodesk Inventor Part"
+  }, 
+  {
+  ".sat":"ACIS 3D Object"
+  }, 
+  {
+  ".hxx":"C++ Header"
+  }, 
+  {
+  ".wat":"WebAssembly Text"
+  }, 
+  {
+  ".cxx":"C++ Source Code"
+  }, 
+  {
+  ".hxx":"C++ Source Code"
+  }, 
+  {
+  ".cc":"C++ Source Code"
+  }, 
+  {
+  ".uc":"UnrealScript Script"
+  },
+  {
+  ".jp2":"JPEG 2000 Image"
+  },
+  {
+  ".tga":"Targa Image"
   }
  ]
 }
