@@ -1217,10 +1217,7 @@
   }, 
   {
   ".cxx":"C++ Source Code"
-  }, 
-  {
-  ".hxx":"C++ Source Code"
-  }, 
+  },  
   {
   ".cc":"C++ Source Code"
   }, 
@@ -1232,6 +1229,9 @@
   },
   {
   ".tga":"Targa Image"
+  }, 
+  {
+  ".plv":"VCD/DVD Content"
   }
  ]
 }
