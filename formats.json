@@ -985,7 +985,7 @@
   ".rd":"R Documentation"
   }, 
   {
-  ".sqlite":"Sqlite Data Base"
+  ".sqlitedb":"Sqlite DataBase"
   }, 
   {
   ".cow":"Cowsay Text"
@@ -1187,10 +1187,7 @@
   }, 
   {
   ".step":"STEP CAD Data"
-  }, 
-  {
-  ".^^^":"Pervasive SQL Database"
-  }, 
+  },  
   {
   ".sql":"SQL Data"
   }, 
@@ -1232,6 +1229,123 @@
   }, 
   {
   ".plv":"VCD/DVD Content"
+  }, 
+  {
+  ".ccp4":"CCP4 Chemical Representation"
+  }, 
+  {
+  ".cdx":"ChemDraw Binary Chemical Representation"
+  }, 
+  {
+  ".cdxml":"ChemDraw XML Chemical Representation"
+  }, 
+  {
+  ".cml":"ChemML Chemical Representation"
+  }, 
+  {
+  ".mol":"MDL Molfile Chemical Representation"
+  }, 
+  {
+  ".cif":"Crystallographic Information"
+  }, 
+  {
+  ".mmcif":"Macromolecular Crystallographic Information"
+  }, 
+  {
+  ".jdx":"JCAMP-DX Chemical Representation"
+  }, 
+  {
+  ".mdf":"MS SQL Server Database"
+  }, 
+  {
+  ".tup":"TUP Configuration"
+  }, 
+  {
+  ".rmv":"Radical Entertainment Game Video"
+  }, 
+  {
+  ".imk":"iMindMap Document"
+  }, 
+  {
+  ".pmb":"Adobe PageMaker Document"
+  }, 
+  {
+  ".midi":"MIDI Audio"
+  }, 
+  {
+  ".mid":"MIDI Audio"
+  }, 
+  {
+  ".kdbx":"KeePass 2.x Password DataBase"
+  }, 
+  {
+  ".kdb":"KeePass 1 Password DataBase"
+  }, 
+  {
+  ".dir":" Adobe Director Project"
+  }, 
+  {
+  ".zdl":"Avery DesignPro 5.x Document"
+  }, 
+  {
+  ".adl":"SQL DataBase Link"
+  }, 
+  {
+  ".crdownload":"Chrome Partial Downlad"
+  }, 
+  {
+  ".download":"Safari Partial Downlad"
+  }, 
+  {
+  ".part":"Firefox Partial Downlad"
+  }, 
+  {
+  ".opdownload":"Opera Partial Downlad"
+  }, 
+  {
+  ".cjs":"CommonJS Module"
+  }, 
+  {
+  ".mjs":"ECMAScript Module"
+  }, 
+  {
+  ".rexx":"Object REXX Script"
+  }, 
+  {
+  ".rex":"Object REXX Script"
+  }, 
+  {
+  ".csx":"C# Source Code"
+  }, 
+  {
+  ".groovy":"Apache Groovy Script"
+  }, 
+  {
+  ".gvy":"Apache Groovy Script"
+  }, 
+  {
+  ".applescript":"AppleScript Script"
+  }, 
+  {
+  ".u":"Urbiscript Script"
+  }, 
+  {
+  ".csh":"C Shell Script"
+  }, 
+  {
+  ".cmd":"Batch Script"
+  }, 
+  {
+  ".dylan":"Dylan Script"
+  }, 
+  {
+  ".torrent":"Bittorrent Data"
+  }, 
+  {
+  ".!ut":"qBittorrent Incomplete Downlad"
+  }, 
+  {
+  ".!qB":"µTorent Incomplete Downlad"
   }
  ]
 }
