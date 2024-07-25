@@ -1346,6 +1346,117 @@
   }, 
   {
   ".!qB":"µTorent Incomplete Downlad"
+  }, 
+  {
+  ".au3":"Autolt v3 Script"
+  }, 
+  {
+  ".cmake":"CMake Script"
+  }, 
+  {
+  ".ini":"Application Specific Configuration"
+  },
+  {
+  ".inf":"MS Setup Information"
+  }, 
+  {
+  ".iss":"Inno Setup Script"
+  }, 
+  {
+  ".kix":"KiXtart Script"
+  }, 
+  {
+  ".jsp":"JavaServer Page"
+  }, 
+  {
+  ".pas":"Pascal Source Code"
+  }, 
+  {
+  ".1":"Unix ManPage Help"
+  }, 
+  {
+  ".2":"Unix ManPage Help"
+  }, 
+  {
+  ".makefile":"Make Configuration"
+  }, 
+  {
+  ".make":"Make Configuration"
+  }, 
+  {
+  ".mak":"Make Configuration"
+  }, 
+  {
+  ".log":"LOG Information"
+  }, 
+  {
+  ".3":"Unix ManPage Help"
+  }, 
+  {
+  ".4":"Unix ManPage Help"
+  }, 
+  {
+  ".5":"Unix ManPage Help"
+  }, 
+  {
+  ".7":"Unix ManPage Help"
+  }, 
+  {
+  ".8":"Unix ManPage Help"
+  }, 
+  {
+  ".x86":"Linux Executable Program"
+  }, 
+  {
+  ".x86_64":"Linux Executable Program"
+  }, 
+  {
+  ".xps":"MS XPS Document"
+  }, 
+  {
+  ".markdn":"MarkDown Document"
+  }, 
+  {
+  ".markdown":"MarkDown Document"
+  }, 
+  {
+  ".oxps":"MS XPS Document"
+  }, 
+  {
+  ".djv":"DjVu Document"
+  }, 
+  {
+  ".scml":"Spriter Configuration"
+  }, 
+  {
+  ".xpm":"X11 Pixmap Image"
+  }, 
+  {
+  ".xbm":"X11 Bitmap Image"
+  }, 
+  {
+  ".dbk":"DocBook Document"
+  }, 
+  {
+  ".mxl":"Music XML Document"
+  }, 
+  {
+  ".adoc":"AsciiDoc Document"
+  }, 
+  {
+  ".xhtml":"XHTML Web Page"
+  }, 
+  {
+  ".sgml":"SGML Document"
+  }, 
+  {
+  ".gih":"GIMP Pattern Brush"
+  }, 
+  {
+  ".gbr":"GIMP Brush"
+  }, 
+  {
+  ".kpl":"Krita Color Palette"
   }
  ]
 }
