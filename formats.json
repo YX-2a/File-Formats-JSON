@@ -1457,6 +1457,216 @@
   }, 
   {
   ".kpl":"Krita Color Palette"
+  }, 
+  {
+  ".thm":"Video Thumbnail"
+  }, 
+  {
+  ".bnp":"Video Information Data"
+  }, 
+  {
+  ".jpx":"JPEG 2000 Image"
+  }, 
+  {
+  ".cr2":"Raw Canon Camera Footage"
+  }, 
+  {
+  ".qoi":"QOI Image"
+  }, 
+  {
+  ".dcm":"DICOM Image"
+  }, 
+  {
+  ".ttf":"TrueType Font"
+  }, 
+  {
+  ".otf":"OpenType Font"
+  },
+  {
+  ".crx":"Chrome Browser Extention"
+  }, 
+  {
+  ".nes":"NES ROM Image"
+  }, 
+  {
+  ".jxs":"JPEG XS Image"
+  }, 
+  {
+  ".pgf":"PGF Image"
+  }, 
+  {
+  ".rev":"RAR Recovery Volume"
+  }, 
+  {
+  ".idx":"Application Specific Index"
+  }, 
+  {
+  ".perl":"Perl Script"
+  },
+  {
+  ".cbor":"CBOR Data"
+  }, 
+  {
+  ".u3d":"U3D 3D Model"
+  }, 
+  {
+  ".ebk":"eBook Pro eBook"
+  }, 
+  {
+  ".koob":"Koob eBook"
+  }, 
+  {
+  ".cgm":"CGM Image"
+  }, 
+  {
+  ".sgi":"SGI Image"
+  }, 
+  {
+  ".bpnueb":"PNU eBook"
+  }, 
+  {
+  ".pml":"Palm Markup Document"
+  }, 
+  {
+  ".run":"Linux Application Installer"
+  }, 
+  {
+  ".gadget":"Windows Gadget"
+  }, 
+  {
+  ".awk":"AWK Script"
+  }, 
+  {
+  ".sb3":"Scratch 3.0 Project"
+  }, 
+  {
+  ".xcodeproj":"Xcode Project"
+  }, 
+  {
+  ".cso":"Compressed ISO Disk Image"
+  }, 
+  {
+  ".pnproj":"Programmer's Notepad Project"
+  }, 
+  {
+  ".fnt":"Windows Font"
+  }, 
+  {
+  ".dib":"Bitmap Image"
+  }, 
+  {
+  ".ecw":"ECW Image"
+  }, 
+  {
+  ".ics":"ICS Image"
+  }, 
+  {
+  ".flif":"FLIF Image"
+  }, 
+  {
+  ".fpx":"FlashPix Image"
+  }, 
+  {
+  ".wl":"Wolfram Script"
+  }, 
+  {
+  ".pict":"Apple PICT Image"
+  }, 
+  {
+  ".pam":"Portable Arbitrary Map Image"
+  }, 
+  {
+  ".wbmp":"Wireless Bitmap Image"
+  }, 
+  {
+  ".jxr":"JPEG XR Image"
+  }, 
+  {
+  ".jbig":"JBIG Image"
+  }, 
+  {
+  ".jbg":"JBIG Image"
+  }, 
+  {
+  ".jxsv":"JPEG XS Video"
+  }, 
+  {
+  ".ptx":"Raw Pentax Camera Footage"
+  }, 
+  {
+  ".x3f":"Raw Sigma Camera Footage"
+  }, 
+  {
+  ".tco":"Raw intoPIX Camera Footage"
+  }, 
+  {
+  ".rwz":"Raw Rawzor Camera Footage"
+  }, 
+  {
+  ".rwl":"Raw Leica Camera Footage"
+  }, 
+  {
+  ".rw2":"Raw Panasonic Camera Footage"
+  }, 
+  {
+  ".pef":"Raw Pentax Camera Footage"
+  }, 
+  {
+  ".nrw":"Raw Nikon Camera Footage"
+  }, 
+  {
+  ".mos":"Raw Leaf Camera Footage"
+  }, 
+  {
+  ".mef":"Raw Mamiya Camera Footage"
+  }, 
+  {
+  ".fff":"Raw Imacon/Hasselblad Camera Footage"
+  }, 
+  {
+  ".erf":"Raw Epson Camera Footage"
+  }, 
+  {
+  ".gpr":"Raw GoPro Camera Footage"
+  }, 
+  {
+  ".dcs":"Raw Kodak Camera Footage"
+  }, 
+  {
+  ".dcr":"Raw Kodak Camera Footage"
+  }, 
+  {
+  ".drf":"Raw Kodak Camera Footage"
+  }, 
+  {
+  ".k25":"Raw Kodak Camera Footage"
+  }, 
+  {
+  ".kdc":"Raw Kodak Camera Footage"
+  }, 
+  {
+  ".eip":"Raw Phase_One Camera Footage"
+  }, 
+  {
+  ".iiq":"Raw Phase_One Camera Footage"
+  }, 
+  {
+  ".cap":"Raw Phase_One Camera Footage"
+  }, 
+  {
+  ".cri":"Raw Cintel Camera Footage"
+  }, 
+  {
+  ".braw":"Raw Blackmagic Design Camera Footage"
+  }, 
+  {
+  ".bay":"Raw Casio Camera Footage"
+  }, 
+  {
+  ".3fr":"Raw Hasselblad Camera Footage"
+  }, 
+  {
+  ".cr3":"Raw Canon Camera Footage"
   }
  ]
 }
