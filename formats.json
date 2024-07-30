@@ -1667,6 +1667,69 @@
   }, 
   {
   ".cr3":"Raw Canon Camera Footage"
+  }, 
+  {
+  ".ms":"Autodesk MaxScript Script"
+  },  
+  {
+  ".sng":"Korg Trinity MIDI Audio"
+  },  
+  {
+  ".flt":"OpenFlight 3D Object"
+  },  
+  {
+  ".add":"Microsoft Dynamics AX Developer Documentation"
+  }, 
+  {
+  ".frm":"MySQL Table Definition"
+  },     
+  {
+  ".utf":"UTF-8 Encoded Text"
+  }, 
+  {
+  ".wmf":"Windows Metafile"
+  }, 
+  {
+  ".uu":"UUEncode Encoded Text"
+  }, 
+  {
+  ".uue":"UUEncode Encoded Text"
+  }, 
+  {
+  ".xxe":"XXEncoded Encoded Text"
+  }, 
+  {
+  ".b64":"Base64 Encoded Text"
+  }, 
+  {
+  ".hqx":"BinHex Encoded Text"
+  }, 
+  {
+  ".mo":"GNU Message Catalog"
+  }, 
+  {
+  ".pcf":"X11 Portable Compiled Font"
+  },  
+  {
+  ".dmp":"Mini DuMP Crash Report"
+  }, 
+  {
+  ".theme":"GTK Theme Index"
+  }, 
+  {
+  ".pf2":"GRUB Font"
+  }, 
+  {
+  ".ins":"LaTeX Installer Script"
+  }, 
+  {
+  ".amp":"Adobe Photoshop Color Adjustment Curve"
+  }, 
+  {
+  ".t3d":"Unreal Engine 3D Object"
+  }, 
+  {
+  ".lid":"Kodak EasyShare Image Album"
   }
  ]
 }
