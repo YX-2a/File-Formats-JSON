@@ -874,7 +874,7 @@
   ".smallbasic":"Small Basic Script"
   }, 
   {
-  ".sb":"Small Basic Script"
+  ".sb":"Scratch Project"
   }, 
   {
   ".ml":"OCaml Script"
@@ -1754,6 +1754,36 @@
   },
   {
   ".dvr-ms":"Microsoft DVR Video"
+  }, 
+  {
+  ".jt":"JT CAD Data"
+  }, 
+  {
+  ".wwf":"WWF Document"
+  }, 
+  {
+  ".xwd":"X11 Dump Image"
+  }, 
+  {
+  ".fb2":"Fiction Book eBook"
+  }, 
+  {
+  ".phar":"PHP Archive"
+  }, 
+  {
+  ".xar":"XAR Compressed Archive"
+  }, 
+  {
+  ".xpi":"XPInstall Application Installer"
+  }, 
+  {
+  ".zoo":"ZOO Compressed Archive"
+  }, 
+  {
+  ".bas":"SmallBasic Script"
+  }, 
+  {
+  ".dtxt":"Dynamic Text"
   }
  ]
 }
