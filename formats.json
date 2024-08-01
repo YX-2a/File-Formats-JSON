@@ -1730,6 +1730,30 @@
   }, 
   {
   ".lid":"Kodak EasyShare Image Album"
+  }, 
+  {
+  ".wdp":"Windows Media Image"
+  }, 
+  {
+  ".emf":"Windows EMF Metafile"
+  }, 
+  {
+  ".mp2v":"MPEG Layer 2 Video"
+  }, 
+  {
+  ".mpv2":"MPEG Layer 2 Video"
+  }, 
+  {
+  ".wm":"Windows Media Video/Audio"
+  }, 
+  {
+  ".wtv":"Windows Saved Television Program"
+  }, 
+  {
+  ".jpe":"JPEG Image"
+  },
+  {
+  ".dvr-ms":"Microsoft DVR Video"
   }
  ]
 }
