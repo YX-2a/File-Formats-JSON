@@ -520,10 +520,10 @@
   ".desktop":"Unix Desktop Entry"
   },
   {
-  ".vhd":"Microsoft Virtual PC/Virtual Server Virtual Hard Disk"
+  ".vhd":"MS Virtual PC/Virtual Server Virtual Hard Disk"
   },
   {
-  ".vfd":"Microsoft Virtual PC/Virtual Server Virtual Floppy Disk"
+  ".vfd":"MS Virtual PC/Virtual Server Virtual Floppy Disk"
   },
   {
   ".vmdk":"Virtual Machine Disk"
@@ -985,7 +985,7 @@
   ".rd":"R Documentation"
   }, 
   {
-  ".sqlitedb":"Sqlite DataBase"
+  ".sqlitedb":"Sqlite Database"
   }, 
   {
   ".cow":"Cowsay Text"
@@ -1276,10 +1276,10 @@
   ".mid":"MIDI Audio"
   }, 
   {
-  ".kdbx":"KeePass 2.x Password DataBase"
+  ".kdbx":"KeePass 2.x Password Database"
   }, 
   {
-  ".kdb":"KeePass 1 Password DataBase"
+  ".kdb":"KeePass 1 Password Database"
   }, 
   {
   ".dir":" Adobe Director Project"
@@ -1288,7 +1288,7 @@
   ".zdl":"Avery DesignPro 5.x Document"
   }, 
   {
-  ".adl":"SQL DataBase Link"
+  ".adl":"SQL Database Link"
   }, 
   {
   ".crdownload":"Chrome Partial Downlad"
@@ -1357,7 +1357,7 @@
   ".ini":"Application Specific Configuration"
   },
   {
-  ".inf":"MS Setup Information"
+  ".inf":"Application Specific Configuration Information"
   }, 
   {
   ".iss":"Inno Setup Script"
@@ -1531,7 +1531,7 @@
   ".run":"Linux Application Installer"
   }, 
   {
-  ".gadget":"Windows Gadget"
+  ".gadget":"Windows Vista/7 Gadget"
   }, 
   {
   ".awk":"AWK Script"
@@ -1549,7 +1549,7 @@
   ".pnproj":"Programmer's Notepad Project"
   }, 
   {
-  ".fnt":"Windows Font"
+  ".fnt":"Legacy Windows Font"
   }, 
   {
   ".dib":"Bitmap Image"
@@ -1747,7 +1747,7 @@
   ".wm":"Windows Media Video/Audio"
   }, 
   {
-  ".wtv":"Windows Saved Television Program"
+  ".wtv":"Windows Media Center Saved Television Program"
   }, 
   {
   ".jpe":"JPEG Image"
@@ -1784,6 +1784,57 @@
   }, 
   {
   ".dtxt":"Dynamic Text"
+  }, 
+  {
+  ".mui":"Microsoft Multilingual User Interface"
+  }, 
+  {
+  ".ecf":"MS Outlook Add-in"
+  },  
+  {
+  ".hve":"Windows Registry Hive"
+  },
+  {
+  ".bcf":"BIM Collaboration Data"
+  }, 
+  {
+  ".sdb":"Windows Database"
+  }, 
+  {
+  ".sdi":"System Deployment Image"
+  }, 
+  {
+  ".efi":"EFI Executable Program"
+  },  
+  {
+  ".ttc":"TrueType Font Collection"
+  }, 
+  {
+  ".dub":"Windows Spelling Dictionary"
+  }, 
+  {
+  ".acl":"MS Office AutoCorrect List"
+  }, 
+  {
+  ".lex":"Adobe Lexicon Data"
+  }, 
+  {
+  ".xsd":"XML Schema"
+  }, 
+  {
+  ".db":"Database"
+  }, 
+  {
+  ".pub":"MS Publisher Document"
+  }, 
+  {
+  ".rgs":"InstallSheild Script for Windows Registry"
+  }, 
+  {
+  ".tlb":"Microsoft Type Library"
+  }, 
+  {
+  ".cat":"Microsoft Digitally-Signed Catalog"
   }
  ]
 }
