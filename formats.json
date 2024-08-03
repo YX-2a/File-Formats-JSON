@@ -901,31 +901,31 @@
   ".glade":"GTK XML Interface"
   }, 
   {
-  ".xaml":"Microsoft XAML Document"
+  ".xaml":"Microsoft XAML Markup Document"
   }, 
   {
-  ".toml":"TOML Document"
+  ".toml":"TOML Markup Document"
   }, 
   {
   ".reb":"REBOL Script"
   }, 
   {
-  ".cfg":"Application Specific Configuration Text"
+  ".cfg":"Application Specific Configuration Text Document"
   }, 
   {
-  ".conf":"Application Specific Configuration Text"
+  ".conf":"Application Specific Configuration Text Document"
   }, 
   {
   ".wsd":"WordStar Word Document"
   }, 
   {
-  ".yaml":"YAML Document"
+  ".yaml":"YAML Markup Document"
   }, 
   {
-  ".yml":"YAML Document"
+  ".yml":"YAML Markup Document"
   }, 
   {
-  ".atom":"ATOM Document"
+  ".atom":"ATOM Markup Document"
   }, 
   {
   ".plist":"Apple Proprety List"
@@ -988,7 +988,7 @@
   ".sqlitedb":"Sqlite Database"
   }, 
   {
-  ".cow":"Cowsay Text"
+  ".cow":"Cowsay Text Document"
   }, 
   {
   ".o":"Compiled C Object"
@@ -1033,7 +1033,7 @@
   ".swp":"Vim Swap"
   }, 
   {
-  ".order":"ORDER Linker Text"
+  ".order":"ORDER Linker Text Document"
   }, 
   {
   ".6":"Unix ManPage Help"
@@ -1177,7 +1177,7 @@
   ".ij":"JT CAD Data"
   }, 
   {
-  ".x_b":"Parasolid Text"
+  ".x_b":"Parasolid Text Document"
   }, 
   {
   ".prt":"Pro/ENGINEER Part"
@@ -1210,7 +1210,7 @@
   ".hxx":"C++ Header"
   }, 
   {
-  ".wat":"WebAssembly Text"
+  ".wat":"WebAssembly Text Document"
   }, 
   {
   ".cxx":"C++ Source Code"
@@ -1411,7 +1411,7 @@
   ".x86_64":"Linux Executable Program"
   }, 
   {
-  ".xps":"MS XPS Document"
+  ".xps":"MS XPS Markup Document"
   }, 
   {
   ".markdn":"MarkDown Document"
@@ -1420,7 +1420,7 @@
   ".markdown":"MarkDown Document"
   }, 
   {
-  ".oxps":"MS XPS Document"
+  ".oxps":"OpenXPS Markup Document"
   }, 
   {
   ".djv":"DjVu Document"
@@ -1447,7 +1447,7 @@
   ".xhtml":"XHTML Web Page"
   }, 
   {
-  ".sgml":"SGML Document"
+  ".sgml":"SGML Markup Document"
   }, 
   {
   ".gih":"GIMP Pattern Brush"
@@ -1684,25 +1684,25 @@
   ".frm":"MySQL Table Definition"
   },     
   {
-  ".utf":"UTF-8 Encoded Text"
+  ".utf":"UTF-8 Encoded Text Document"
   }, 
   {
   ".wmf":"Windows Metafile"
   }, 
   {
-  ".uu":"UUEncode Encoded Text"
+  ".uu":"UUEncode Encoded Text Document"
   }, 
   {
-  ".uue":"UUEncode Encoded Text"
+  ".uue":"UUEncode Encoded Text Document"
   }, 
   {
-  ".xxe":"XXEncoded Encoded Text"
+  ".xxe":"XXEncoded Encoded Text Document"
   }, 
   {
-  ".b64":"Base64 Encoded Text"
+  ".b64":"Base64 Encoded Text Document"
   }, 
   {
-  ".hqx":"BinHex Encoded Text"
+  ".hqx":"BinHex Encoded Text Document"
   }, 
   {
   ".mo":"GNU Message Catalog"
@@ -1783,7 +1783,7 @@
   ".bas":"SmallBasic Script"
   }, 
   {
-  ".dtxt":"Dynamic Text"
+  ".dtxt":"Dynamic Text Document"
   }, 
   {
   ".mui":"Microsoft Multilingual User Interface"
@@ -1835,6 +1835,33 @@
   }, 
   {
   ".cat":"Microsoft Digitally-Signed Catalog"
+  }, 
+  {
+  ".kml":"KML Markup Document"
+  }, 
+  {
+  ".php3":"PHP3 Script"
+  }, 
+  {
+  ".php4":"PHP4 Script"
+  }, 
+  {
+  ".php5":"PHP5 Script"
+  }, 
+  {
+  ".phps":"PHP Script"
+  }, 
+  {
+  ".phpt":"PHP Test Layout"
+  }, 
+  {
+  ".phtml":"PHP HTML Web Page"
+  }, 
+  {
+  ".xsml":"XSML Markup Document"
+  }, 
+  {
+  ".rc":"C/C++ Resource File"
   }
  ]
 }
