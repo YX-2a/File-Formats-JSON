@@ -1177,7 +1177,7 @@
   ".ij":"JT CAD Data"
   }, 
   {
-  ".x_b":"Parasolid Text Document"
+  ".x_b":"Parasolid CAD Data"
   }, 
   {
   ".prt":"Pro/ENGINEER Part"
@@ -1529,10 +1529,7 @@
   }, 
   {
   ".run":"Linux Application Installer"
-  }, 
-  {
-  ".gadget":"Windows Vista/7 Gadget"
-  }, 
+  },  
   {
   ".awk":"AWK Script"
   }, 
@@ -1862,6 +1859,297 @@
   }, 
   {
   ".rc":"C/C++ Resource File"
+  }, 
+  {
+  ".vqf":"TwinVQ Audio"
+  }, 
+  {
+  ".ape":"Monkey's Audio"
+  }, 
+  {
+  ".aa":"Amazon Audible Audio"
+  }, 
+  {
+  ".aax":"Amazon Audible Enhanced Audio"
+  }, 
+  {
+  ".cda":"CD Audio"
+  }, 
+  {
+  ".l":"Lex Source Code"
+  }, 
+  {
+  ".ybk":"YanCEyWare eBook"
+  },
+  {
+  ".y":"Yacc Source Code"
+  }, 
+  {
+  ".loc":"GPS Location Data"
+  }, 
+  {
+  ".gpx":"GPS Location Data"
+  }, 
+  {
+  ".pyc":"Compiled Python Script"
+  }, 
+  {
+  ".pyo":"Compiled Python Script"
+  }, 
+  {
+  ".odc":"OpenDocument Chart Document"
+  }, 
+  {
+  ".csproj":"MS Visual C# Project"
+  }, 
+  {
+  ".odb":"OpenDocument Database"
+  }, 
+  {
+  ".odi":"OpenDocument Image"
+  }, 
+  {
+  ".cspkg":"Microsoft Windows Azure C# Package"
+  }, 
+  {
+  ".dot":"Legacy MS Word Template"
+  }, 
+  {
+  ".dotx":"MS Word Template"
+  }, 
+  {
+  ".xlt":"Legacy MS Excel Template"
+  }, 
+  {
+  ".xltx":"MS Excel Template"
+  }, 
+  {
+  ".pot":"Legacy MS PowerPoint Template"
+  }, 
+  {
+  ".potx":"MS PowerPoint Template"
+  }, 
+  {
+  ".sldx":"MS PowerPoint SlideShow"
+  }, 
+  {
+  ".aaccdt":"MS Access Template"
+  }, 
+  {
+  ".docm":"MS Word Macro-enabled Word Document"
+  }, 
+  {
+  ".x_t":"Parasolid CAD Data"
+  }, 
+  {
+  ".0adsave":"0 A.D Game Save"
+  }, 
+  {
+  ".dwfx":"Autodesk AutoCAD Design Data"
+  }, 
+  {
+  ".amix":"AutomationML Markup Document"
+  }, 
+  {
+  ".cddx":"Circuit Diagram Document"
+  }, 
+  {
+  ".fdix":"Field Device Integration information"
+  }, 
+  {
+  ".pbix":"Microsoft Power BI report"
+  }, 
+  {
+  ".pbit ":"Microsoft Power BI template"
+  }, 
+  {
+  ".adt":"ADTS Audio"
+  }, 
+  {
+  ".adts":"ADTS Audio"
+  }, 
+  {
+  ".xlsm":"MS Excel Macro-enabled WorkBook"
+  }, 
+  {
+  ".pptm":"MS PowerPoint Macro-enabled Presentation"
+  }, 
+  {
+  ".sldm":"MS PowerPoint Macro-enabled Slide"
+  }, 
+  {
+  ".accdu":"MS Access Add-in"
+  }, 
+  {
+  ".ppa":"Legacy MS PowerPoint Add-in"
+  }, 
+  {
+  ".ppam":"MS PowerPoint Add-in"
+  }, 
+  {
+  ".xla":"MS Excel Add-in"
+  }, 
+  {
+  ".wll":"MS Word Add-in"
+  }, 
+  {
+  ".wwl":"MS Word Add-in"
+  }, 
+  {
+  ".uot":"Unified Office Word Document"
+  }, 
+  {
+  ".dbf":"dBase Database"
+  }, 
+  {
+  ".uos":"Unified Office SpreadSheet"
+  }, 
+  {
+  ".uop":"Unified Office Presentation"
+  }, 
+  {
+  ".oth":"OpenDocument HTML Template"
+  }, 
+  {
+  ".textile":"Textile Markup Document"
+  }, 
+  {
+  ".drw":"Drawn Image"
+  }, 
+  {
+  ".rec":"Recfiles Database"
+  }, 
+  {
+  ".opml":"OPML Markup Document"
+  }, 
+  {
+  ".haml":"HAML Markup Document"
+  }, 
+  {
+  ".odm":"OpenDocument Master Document"
+  }, 
+  {
+  ".met":"eMule Resource"
+  }, 
+  {
+  ".pcd":"Point Cloud Data"
+  }, 
+  {
+  ".ras":"Raster Image"
+  }, 
+  {
+  ".sgv":"SGV Video"
+  }, 
+  {
+  ".v3d":"Vector Art 3D Object"
+  }, 
+  {
+  ".vc1":"VC-1 Video"
+  }, 
+  {
+  ".dj":"Djot Markup Document"
+  }, 
+  {
+  ".omdoc":"OMDoc Math Formula Document"
+  }, 
+  {
+  ".mml":"MathML Math Formula Document"
+  }, 
+  {
+  ".sqr":"SQL Report"
+  }, 
+  {
+  ".def":"Visual Studio Module Definition"
+  }, 
+  {
+  ".fig":"Figma Project"
+  }, 
+  {
+  ".lpdf":"MacOs Localized PDF Document"
+  }, 
+  {
+  ".xhtm":"XHTML Web Page"
+  }, 
+  {
+  ".scss":"Sass CSS Style Sheet"
+  }, 
+  {
+  ".rmt":"Internet Router Firmware"
+  }, 
+  {
+  ".reg":"Windows Registry Entry"
+  }, 
+  {
+  ".sys":"Windows System Configuration/Driver"
+  }, 
+  {
+  ".vss":"MS Visio Stencil"
+  }, 
+  {
+  ".vst":"MS Visio Template"
+  }, 
+  {
+  ".vdw":"MS Visio Web Drawing"
+  }, 
+  {
+  ".vsdx":"MS Visio Drawing"
+  }, 
+  {
+  ".vssm":"MS Visio Macro-enabled Drawing"
+  }, 
+  {
+  ".vstx":"MS Visio Template"
+  }, 
+  {
+  ".vstm":"MS Visio Macro-enabled Template"
+  }, 
+  {
+  ".vsl":"MS Visio Add-on"
+  }, 
+  {
+  ".azw":"Kindle eBook"
+  }, 
+  {
+  ".azw3":"Kindle eBook"
+  }, 
+  {
+  ".kfx":"Kindle eBook"
+  }, 
+  {
+  ".fli":"FLIC Video"
+  }, 
+  {
+  ".tpz":"Kindle Topaz eBook"
+  }, 
+  {
+  ".mart":"MartView eBook"
+  }, 
+  {
+  ".dnl":"DNAML eBook"
+  }, 
+  {
+  ".epub":"EPUB eBook"
+  }, 
+  {
+  ".webz":"WEBZ Compressed eBook"
+  }, 
+  {
+  ".flc":"FLIC Video"
+  }, 
+  {
+  ".dds":"Microsoft DirectDraw Surface Image"
+  }, 
+  {
+  ".dtd":"XML Schema"
+  }, 
+  {
+  ".scm":"GIMP Script-Fu Script"
+  }, 
+  {
+  ".lst":"Data List"
+  }, 
+  {
+  ".ltx":"LaTeX Document"
   }
  ]
 }
