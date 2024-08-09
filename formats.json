@@ -496,10 +496,10 @@
   ".ply":"Stanford 3D Object"
   },
   {
-  ".x3d":"Extensible 3D Object"
+  ".x3d":"X3D 3D Object"
   },
   {
-  ".wlr":"Extensible 3D Object"
+  ".wlr":"VRML 3D Object"
   },
   {
   ".stl":"Stereolithographic 3D Object"
@@ -1555,7 +1555,7 @@
   ".ecw":"ECW Image"
   }, 
   {
-  ".ics":"ICS Image"
+  ".ics":"ICalender Calendar"
   }, 
   {
   ".flif":"FLIF Image"
@@ -2150,6 +2150,102 @@
   }, 
   {
   ".ltx":"LaTeX Document"
+  }, 
+  {
+  ".cbr":"Comic Book Archive (RAR Compressed)"
+  }, 
+  {
+  ".cbz":"Comic Book Archive (ZIP Compressed)"
+  }, 
+  {
+  ".cbt":"Comic Book Archive (Tar Archived)"
+  }, 
+  {
+  ".cba":"Comic Book Archive (ACE Compressed)"
+  }, 
+  {
+  ".cb7":"Comic Book Archive (7z Compressed)"
+  }, 
+  {
+  ".egg":"EGG Compressed Archive"
+  }, 
+  {
+  ".zipx":"ZIP Compressed Archive"
+  }, 
+  {
+  ".4th":"Forth Source Code"
+  }, 
+  {
+  ".fth":"Forth Source Code"
+  }, 
+  {
+  ".dwg":"Autodesk DWG CAD Data"
+  }, 
+  {
+  ".dwt":"Autodesk DWG Template"
+  }, 
+  {
+  ".icc":"ICC Color Profile"
+  }, 
+  {
+  ".qif":"QIF Data"
+  }, 
+  {
+  ".org":"Org-Mode Text Document"
+  }, 
+  {
+  ".osm":"OpenStreetMap Markup Document"
+  }, 
+  {
+  ".shp":"Shapefile GIS Data"
+  }, 
+  {
+  ".shx":"Shapefile GIS Data"
+  }, 
+  {
+  ".ofx":"OFX Financial Data"
+  }, 
+  {
+  ".x3dv":"X3D (VRML) 3D Object"
+  }, 
+  {
+  ".x3db":"X3D (Binary) 3D Object"
+  }, 
+  {
+  ".x3dz":"X3D (Gzip Compressed) 3D Object"
+  }, 
+  {
+  ".x3dbz":"X3D (Binary, Gzip Compressed) 3D Object"
+  }, 
+  {
+  ".x3dvz":"X3D (VRML, Binary, Gzip Compressed) 3D Object"
+  }, 
+  {
+  ".wlz":"VRML 3D Object"
+  }, 
+  {
+  ".gltf":"GLTF 3D Object"
+  }, 
+  {
+  ".glb":"GLTF 3D Object (Binary)"
+  }, 
+  {
+  ".qfx":"QFX Financial Data"
+  }, 
+  {
+  ".hdf":"HDF Data"
+  }, 
+  {
+  ".hdf4":"HDF 4 Data"
+  }, 
+  {
+  ".hdf5":"HDF 5 Data"
+  }, 
+  {
+  ".rss":"Web Feed"
+  }, 
+  {
+  ".jsontd":"JSON Thing Description"
   }
  ]
 }
