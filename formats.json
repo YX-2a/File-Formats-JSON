@@ -2246,6 +2246,87 @@
   }, 
   {
   ".jsontd":"JSON Thing Description"
+  }, 
+  {
+  ".osl":"Open Shading Script"
+  }, 
+  {
+  ".spi1d":"OpenColorIO 1D Look-Up Table"
+  }, 
+  {
+  ".spimtx":"OpenColorIO 1D/3D Look-Up Table"
+  }, 
+  {
+  ".3dl":"Autodesk Flame/Lustre Look-Up Table"
+  }, 
+  {
+  ".fon":"Legacy Windows Font"
+  }, 
+  {
+  ".clb":"Microsoft COM+ Catalog"
+  }, 
+  {
+  ".clf":"ACES 1D/3D Look-Up Table "
+  }, 
+  {
+  ".ocio":"OpenColorIO Configuration"
+  }, 
+  {
+  ".spi3d":"OpenColorIO 3D Look-Up Table"
+  }, 
+  {
+  ".icm":"ICC Color Profile"
+  }, 
+  {
+  ".ocioz":"OpenColorIO Configuration Archive"
+  },
+  {
+  ".amf":"ACES Metadata"
+  },
+  {
+  ".mtlx":"MaterialX 3D Material"
+  },
+  {
+  ".ifc":"IFC CAD Data"
+  },
+  {
+  ".csp":"Autodesk Maya Look-Up Table"
+  },
+  {
+  ".lut":"SideFX Houdini Look-Up Table"
+  },
+  {
+  ".usd":"USD 3D Object(text/binary)"
+  }, 
+  {
+  ".usda":"USD 3D Object (text)"
+  }, 
+  {
+  ".usdc":"USD 3D Object (binary)"
+  }, 
+  {
+  ".usdz":"Compressed USD 3D Object"
+  }, 
+  {
+  ".sln":"Microsoft Visual Studio Solution"
+  }, 
+  {
+  ".dox":"Doxygen Documentation"
+  },
+  {
+  ".otio":"OpenTimelineIO JSON Editorial Data"
+  },
+  {
+  ".otioz":"Compressed OpenTimelineIO Bundle"
+  },
+  {
+  ".otiod":"OpenTimelineIO Directory Bundle"
+  },
+  {
+  ".abc":"Alembic 3D Object"
+  }, 
+  {
+  ".blend2":"Blender Project"
   }
  ]
 }
