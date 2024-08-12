@@ -484,7 +484,7 @@
   ".dae":"Collada 3D Object"
   },
   {
-  ".fbx":"Autodesk FBX 3D Object"
+  ".fbx":"Autodesk FBX 3D Data"
   },
   {
   ".obj":"Wavefront 3D Object"
@@ -1159,8 +1159,11 @@
   ".exr":"OpenEXR Image"
   }, 
   {
-  ".hdr":"HDR Image"
+  ".hdr":"Radiance HDR Image"
   }, 
+  {
+  ".rgbe":"RGBE Image"
+  },
   {
   ".pgp":"PGP Public Key"
   },
@@ -2296,13 +2299,13 @@
   ".lut":"SideFX Houdini Look-Up Table"
   },
   {
-  ".usd":"USD 3D Object(text/binary)"
+  ".usd":"USD 3D Data (text/binary)"
   }, 
   {
-  ".usda":"USD 3D Object (text)"
+  ".usda":"USD 3D Data (text)"
   }, 
   {
-  ".usdc":"USD 3D Object (binary)"
+  ".usdc":"USD 3D Data (binary)"
   }, 
   {
   ".usdz":"Compressed USD 3D Object"
@@ -2327,6 +2330,78 @@
   }, 
   {
   ".blend2":"Blender Project"
+  }, 
+  {
+  ".mb":"Autodesk Maya Project"
+  },
+  {
+  ".ma":"Autodesk Maya Project"
+  }, 
+  {
+  ".hip":"SideFX Houdini Project"
+  }, 
+  {
+  ".vdb":"OpenVDB Volumetric 3D Data"
+  }, 
+  {
+  ".zbf":"Radiance Z-Buffer Data"
+  }, 
+  {
+  ".rad":"Radiance 3D Scene Description"
+  }, 
+  {
+  ".oct":"Radiance Octree 3D Scene"
+  }, 
+  {
+  ".pic":"PIC Image"
+  }, 
+  {
+  ".max":"Autodesk 3ds Max Project"
+  }, 
+  {
+  ".amb":"Radiance Ambient Data"
+  }, 
+  {
+  ".skp":"Sketch Up Project"
+  }, 
+  {
+  ".rib":"RenderMan Project"
+  }, 
+  {
+  ".doxy":"Doxygen Configuration"
+  }, 
+  {
+  ".rst":"reStructuredText Document"
+  }, 
+  {
+  ".glsl":"GLSL Shader"
+  }, 
+  {
+  ".hlsl":"Microsoft HLSL Shader"
+  }, 
+  {
+  ".metal":"Apple Metal Shader"
+  }, 
+  {
+  ".sgi":"Colored Silicon Graphics Image"
+  }, 
+  {
+  ".int":"B&W Silicon Graphics Image"
+  }, 
+  {
+  ".rla":"Wavefront RLA Image"
+  }, 
+  {
+  ".ptx":"Ptex Image"
+  }, 
+  {
+  ".sl":"RenderMan Shader Source"
+  }, 
+  {
+  ".slo":"RenderMan Compiled 3D Scene"
+  }, 
+  {
+  ".iff":"IFF Image"
   }
  ]
 }
