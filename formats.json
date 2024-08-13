@@ -2402,6 +2402,48 @@
   }, 
   {
   ".iff":"IFF Image"
+  }, 
+  {
+  ".pxr":"Pixar Raster Image"
+  }, 
+  {
+  ".mpo":"MPO 3D Image"
+  },   
+  {
+  ".pfm":"Adobe Type 1 Font"
+  }, 
+  {
+  ".pcx":"Paintbrush Bitmap Image"
+  }, 
+  {
+  ".icb":"Targa Bitmap Image"
+  }, 
+  {
+  ".vda":"Targa Raster Image"
+  }, 
+  {
+  ".bufr":"BUFR Meterological Data"
+  }, 
+  {
+  ".dcx":"DCX Image"
+  },  
+  {
+  ".h5":"HDF 5 Data"
+  }, 
+  {
+  ".grib":"GRIB Meterological Data"
+  }, 
+  {
+  ".j2k":"JPEG 2000 Image"
+  }, 
+  {
+  ".jpc":"JPEG 2000 Image"
+  }, 
+  {
+  ".jpf":"JPEG 2000 Image"
+  }, 
+  {
+  ".j2c":"JPEG 2000 Image"
   }
  ]
 }
