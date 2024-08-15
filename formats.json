@@ -2444,6 +2444,48 @@
   }, 
   {
   ".j2c":"JPEG 2000 Image"
+  }, 
+  {
+  ".rcx":"REDCINE-X PRO Project"
+  }, 
+  {
+  ".cube":"IRIDAS 3D Look-Up Table"
+  }, 
+  {
+  ".m3d":"Pandora 3D Look-Up Table"
+  }, 
+  {
+  ".vf":"Vegas Movie Studio Project"
+  }, 
+  {
+  ".cub":"TrueLight 3D Look-Up Table"
+  },
+  {
+  ".rmd":"REDCINE-X PRO Metadata"
+  },
+  {
+  ".cub":"TrueLight 3D Look-Up Table"
+  },
+  {
+  ".gmo":"GNU Machine Object"
+  }, 
+  {
+  ".fcpxml":"Final Cut Pro XML Document"
+  },
+  {
+  ".edl":"Edit Decision Lists"
+  }, 
+  {
+  ".ale":"ALE Log"
+  }, 
+  {
+  ".mxf":"MXF Video/Audio"
+  }, 
+  {
+  ".aaf":"AAF Video"
+  }, 
+  {
+  ".rtn":"Red Digital Cinema Thumbnail"
   }
  ]
 }
