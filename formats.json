@@ -2486,6 +2486,69 @@
   }, 
   {
   ".rtn":"Red Digital Cinema Thumbnail"
+  }, 
+  {
+  ".scc":"SCC Subtitles"
+  }, 
+  {
+  ".ttml":"TTML Subtitles"
+  }, 
+  {
+  ".dfxp":"TTML Subtitles"
+  },
+  {
+  ".smil":"SMIL Subtitles"
+  }, 
+  {
+  ".vtt":"WebVTT Subtitles"
+  }, 
+  {
+  ".smi":"Microsoft SAMI Subtitles"
+  }, 
+  {
+  ".sami":"Microsoft SAMI Subtitles"
+  }, 
+  {
+  ".fasta":"FASTA Biological Data"
+  }, 
+  {
+  ".fas":"FASTA Biological Data"
+  }, 
+  {
+  ".phyloxml":"PhyloXML Phylogenetic Trees"
+  },
+  {
+  ".xdxf":"XDXF Dictionary"
+  },
+  {
+  ".mk3d":"Matroska Stereoscopic Video"
+  }, 
+  {
+  ".mka":"Matroska Audio"
+  }, 
+  {
+  ".mks":"Matroska Subtitles"
+  }, 
+  {
+  ".ifo":"DVD Video"
+  }, 
+  {
+  ".bup":"DVD Video"
+  }, 
+  {
+  ".gdb":"Geodatabase GIS Data"
+  }, 
+  {
+  ".geojson":"GeoJSON Data"
+  }, 
+  {
+  ".mmp":"Measure Map Pro GIS Data"
+  },
+  {
+  ".dif":"DIF SpreadSheet"
+  }, 
+  {
+  ".ogex":"OpenGEX 3D Scene"
   }
  ]
 }
