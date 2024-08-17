@@ -2549,6 +2549,33 @@
   }, 
   {
   ".ogex":"OpenGEX 3D Scene"
+  }, 
+  {
+  ".oxt":"Apache OpenOffice Plug-in"
+  }, 
+  {
+  ".sdv":"Studio DV Project"
+  }, 
+  {
+  ".dbt":"Text dBase Database"
+  },    
+  {
+  ".xlc":"MS Excel Chart"
+  }, 
+  {
+  ".xlb":"MS Excel Settings"
+  }, 
+  {
+  ".bau":"Apache OpenOffice AutoText Document"
+  }, 
+  {
+  ".kpp":"Krita Brush Preset"
+  }, 
+  {
+  ".jif":"JPEG Image"
+  }, 
+  {
+  ".myb":"MyPaint Brush"
   }
  ]
 }
