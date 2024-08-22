@@ -2576,6 +2576,42 @@
   }, 
   {
   ".myb":"MyPaint Brush"
+  }, 
+  {
+  ".ny":"Audacity Plug-in"
+  }, 
+  {
+  ".qm":"Qt Message"
+  }, 
+  {
+  ".qmltypes":"QML Type Description"
+  }, 
+  {
+  ".data":"Application Specific Data"
+  }, 
+  {
+  ".pf":"Windows Prefetch Cache"
+  }, 
+  {
+  ".xul":"Mozilla XML User Interface"
+  }, 
+  {
+  ".jfc":"JDK Flight Recorder Configuration"
+  },
+  {
+  ".pem":"PEM Public Key"
+  }, 
+  {
+  ".xsl":"XML Style Sheet"
+  }, 
+  {
+  ".pma":"Windows Performance Monitor Alert"
+  }, 
+  {
+  ".jsc":"Compiled JavaScript"
+  }, 
+  {
+  ".qmlc":"QML Cached Document"
   }
  ]
 }
