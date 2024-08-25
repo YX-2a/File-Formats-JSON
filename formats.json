@@ -1714,7 +1714,7 @@
   ".dmp":"Mini DuMP Crash Report"
   }, 
   {
-  ".theme":"GTK Theme Index"
+  ".theme":"GTK Theme Index/Windows Theme"
   }, 
   {
   ".pf2":"GRUB Font"
@@ -1960,10 +1960,10 @@
   ".fdix":"Field Device Integration information"
   }, 
   {
-  ".pbix":"Microsoft Power BI report"
+  ".pbir":"Microsoft Power BI Report"
   }, 
   {
-  ".pbit ":"Microsoft Power BI template"
+  ".pbit ":"Microsoft Power BI Template"
   }, 
   {
   ".adt":"ADTS Audio"
@@ -2612,6 +2612,33 @@
   }, 
   {
   ".qmlc":"QML Cached Document"
+  }, 
+  {
+  ".669":"669 Audio"
+  },
+  {
+  ".pbip":"Microsoft Power BI Project"
+  },
+  {
+  ".pbids":"Microsoft Power BI Data Source"
+  }, 
+  {
+  ".pbix":"Microsoft Power BI Document"
+  },
+  {
+  ".weba":"Weba Audio"
+  },
+  {
+  ".winget":"WinGet Configuration"
+  },
+  {
+  ".wsf":"Windows Script"
+  },
+  {
+  ".xesc":"XESC Video"
+  },
+  {
+  ".srt":"SubRip Subtitles"
   }
  ]
 }
