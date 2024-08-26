@@ -2639,6 +2639,57 @@
   },
   {
   ".srt":"SubRip Subtitles"
+  }, 
+  {
+  ".anx":"Annodex Video"
+  },
+  {
+  ".es":"ECMAScript Script"
+  },
+  {
+  ".pfr":"TDPFR Font"
+  },
+  {
+  ".gnd":"GNUnet Search"
+  },
+  {
+  ".its":"ITS Translation"
+  },
+  {
+  ".jrd":"JRD Document"
+  },
+  {
+  ".json5":"JSON 5 Data"
+  },
+  {
+  ".jsonld":"JSON-LD Data"
+  },
+  {
+  ".mbox":"Mbox Message"
+  },
+  {
+  ".owx":"OWL XML Markup Document"
+  },
+  {
+  ".trig":"TriG RDF Graph Document"
+  },
+  {
+  ".numbers":"Apple Numbers Spreadsheet"
+  },
+  {
+  ".pages":"Apple Pages Word Document"
+  },
+  {
+  ".pkpass":"Apple Wallet Digital Pass"
+  },
+  {
+  ".smaf":"SMAF Audio"
+  },
+  {
+  ".abw":"AbiWord Word Document"
+  },
+  {
+  ".zz":"Zlib Compressed Archive"
   }
  ]
 }
