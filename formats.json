@@ -2599,7 +2599,7 @@
   ".jfc":"JDK Flight Recorder Configuration"
   },
   {
-  ".pem":"PEM Public Key"
+  ".pem":"PEM Digital Signature"
   }, 
   {
   ".xsl":"XML Style Sheet"
@@ -2690,6 +2690,39 @@
   },
   {
   ".zz":"Zlib Compressed Archive"
+  }, 
+  {
+  ".crl":"Certificate Revocation List"
+  }, 
+  {
+  ".p7s":"PKCS #7 Digital Signature"
+  }, 
+  {
+  ".p7r":"PKCS #7 Certificate Request Response"
+  }, 
+  {
+  ".p7m":"PKCS #7 Encrypted Message"
+  }, 
+  {
+  ".p7c":"PKCS #7 Certificate"
+  }, 
+  {
+  ".p7b":"PKCS #7 Certificate Bundle"
+  }, 
+  {
+  ".p12":"PKCS #12 Crytographic Data"
+  }, 
+  {
+  ".pfx":"PKCS #12 Crytographic Data"
+  }, 
+  {
+  ".sml":"Smile Data"
+  }, 
+  {
+  ".bson":"BSON Data"
+  }, 
+  {
+  ".jsonc":"JSON With Comments Data"
   }
  ]
 }
