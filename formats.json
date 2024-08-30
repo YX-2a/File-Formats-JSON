@@ -2723,6 +2723,21 @@
   }, 
   {
   ".jsonc":"JSON With Comments Data"
-  }
+  }, 
+  {
+  ".cer":"CER Certificate"
+  }, 
+  {
+  ".p10":"PKCS #10 Certification Request"
+  }, 
+  {
+  ".p8":"PKCS #8 Private Key"
+  }, 
+  {
+  ".doap":"Project Description Text Document"
+  }, 
+  {
+  ".po":"GNU Gettext Localizable Strings"
+  } 
  ]
 }
