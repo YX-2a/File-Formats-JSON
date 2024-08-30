@@ -148,16 +148,16 @@
    ".csv": "CSV Data"
   },
   {
-   ".doc": "Legacy MS Word Document"
+   ".doc": "Legacy MS Word Structured Text Document"
   },
   {
-   ".docx": "MS Word Document"
+   ".docx": "MS Word Structured Text Document"
   },
   {
-   ".xls": "Legacy MS Excel WorkBook"
+   ".xls": "Legacy MS Excel SpreadSheet"
   },
   {
-   ".xlsx": "MS Excel WorkBook"
+   ".xlsx": "MS Excel SpreadSheet"
   },
   {
    ".ppt": "Legacy MS PowerPoint Presentation"
@@ -172,10 +172,10 @@
    ".ppsx": "MS PowerPoint SlideShow"
   },
   {
-   ".odt": "OpenDocument Word Document"
+   ".odt": "OpenDocument Structured Text Document"
   },
   {
-   ".fodt": "OpenDocument Flat XML Word Document"
+   ".fodt": "OpenDocument Flat XML Structured Text Document"
   },
   {
    ".ods": "OpenDocument SpreadSheet"
@@ -199,7 +199,7 @@
    ".odf": "OpenDocument Math Formula Document"
   },
   {
-   ".wpd" : "WordPerfect Word Document"
+   ".wpd" : "WordPerfect Structured Text Document"
   },
   {
    ".rtf" : "Rich Text Document"
@@ -895,7 +895,7 @@
   ".pro":"QT Creator Project"
   }, 
   {
-  ".qml":"QT Markup Document"
+  ".qml":"QML Markup Document"
   }, 
   {
   ".glade":"GTK XML Interface"
@@ -916,7 +916,7 @@
   ".conf":"Application Specific Configuration Text Document"
   }, 
   {
-  ".wsd":"WordStar Word Document"
+  ".wsd":"WordStar Structured Text Document"
   }, 
   {
   ".yaml":"YAML Markup Document"
@@ -1123,7 +1123,7 @@
   ".sup":"DVD Subtitles"
   }, 
   {
-  ".cptl":"Adobe Captivate project template"
+  ".cptl":"Adobe Captivate Project Template"
   }, 
   {
   ".dart":"Dart Script"
@@ -1267,10 +1267,7 @@
   ".rmv":"Radical Entertainment Game Video"
   }, 
   {
-  ".imk":"iMindMap Document"
-  }, 
-  {
-  ".pmb":"Adobe PageMaker Document"
+  ".imk":"IMake Makefile"
   }, 
   {
   ".midi":"MIDI Audio"
@@ -1939,7 +1936,7 @@
   ".aaccdt":"MS Access Template"
   }, 
   {
-  ".docm":"MS Word Macro-enabled Word Document"
+  ".docm":"MS Word Macro-enabled Structured Text Document"
   }, 
   {
   ".x_t":"Parasolid CAD Data"
@@ -1972,7 +1969,7 @@
   ".adts":"ADTS Audio"
   }, 
   {
-  ".xlsm":"MS Excel Macro-enabled WorkBook"
+  ".xlsm":"MS Excel Macro-enabled SpreadSheet"
   }, 
   {
   ".pptm":"MS PowerPoint Macro-enabled Presentation"
@@ -1999,7 +1996,7 @@
   ".wwl":"MS Word Add-in"
   }, 
   {
-  ".uot":"Unified Office Word Document"
+  ".uot":"Unified Office Structured Text Document"
   }, 
   {
   ".dbf":"dBase Database"
@@ -2068,7 +2065,7 @@
   ".fig":"Figma Project"
   }, 
   {
-  ".lpdf":"MacOs Localized PDF Document"
+  ".lpdf":"MacOS Localized PDF Document"
   }, 
   {
   ".xhtm":"XHTML Web Page"
@@ -2371,7 +2368,7 @@
   ".doxy":"Doxygen Configuration"
   }, 
   {
-  ".rst":"reStructuredText Document"
+  ".rst":"reStructuredText Text Document"
   }, 
   {
   ".glsl":"GLSL Shader"
@@ -2611,7 +2608,7 @@
   ".jsc":"Compiled JavaScript"
   }, 
   {
-  ".qmlc":"QML Cached Document"
+  ".qmlc":"Compiled QML Markup Document"
   }, 
   {
   ".669":"669 Audio"
@@ -2629,7 +2626,7 @@
   ".weba":"Weba Audio"
   },
   {
-  ".winget":"WinGet Configuration"
+  ".winget":"Winget Configuration"
   },
   {
   ".wsf":"Windows Script"
@@ -2656,7 +2653,13 @@
   ".its":"ITS Translation"
   },
   {
-  ".jrd":"JRD Document"
+  ".jrd":"JRD Report"
+  },
+  {
+  ".jrxml":"JRD XML Report Template"
+  },
+  {
+  ".jasper":"Compiled JRD Report"
   },
   {
   ".json5":"JSON 5 Data"
@@ -2674,10 +2677,10 @@
   ".trig":"TriG RDF Graph Document"
   },
   {
-  ".numbers":"Apple Numbers Spreadsheet"
+  ".numbers":"Apple Numbers SpreadSheet"
   },
   {
-  ".pages":"Apple Pages Word Document"
+  ".pages":"Apple Pages Structured Text Document"
   },
   {
   ".pkpass":"Apple Wallet Digital Pass"
@@ -2686,7 +2689,7 @@
   ".smaf":"SMAF Audio"
   },
   {
-  ".abw":"AbiWord Word Document"
+  ".abw":"AbiWord Structured Text Document"
   },
   {
   ".zz":"Zlib Compressed Archive"
