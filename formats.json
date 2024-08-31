@@ -2741,6 +2741,45 @@
   }, 
   {
   ".po":"GNU Gettext Localizable Strings"
-  } 
+  }, 
+  {
+  ".regtrans-ms":"Registry Change Log"
+  }, 
+  {
+  ".log1":"LOG Information"
+  }, 
+  {
+  ".log2":"LOG Information"
+  }, 
+  {
+  ".vbox-prev":"VirtualBox VM Configuration"
+  }, 
+  {
+  ".acrodata":"Adobe Acrobat Data"
+  },  
+  {
+  ".avro":"Apache Avro Data"
+  }, 
+  {
+  ".ldb":"MS Access Lock Information"
+  }, 
+  {
+  ".kgm":"Krita Gamut Mask"
+  }, 
+  {
+  ".ggr":"GIMP Gradient"
+  }, 
+  {
+  ".gpl":"GIMP Palette"
+  }, 
+  {
+  ".kse":"Krita SeExpr Script"
+  }, 
+  {
+  ".kwl":"Krita Window Layout"
+  }, 
+  {
+  ".kws":"Krita Workspace"
+  }
  ]
 }
