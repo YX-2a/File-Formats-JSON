@@ -2780,6 +2780,24 @@
   }, 
   {
   ".kws":"Krita Workspace"
+  },
+  {
+  ".edf":"EDF/EDF+/ESRF Data"
+  },
+  {
+  ".magma":"Magma Script"
+  },
+  {
+  ".mag":"Magma Script"
+  },
+  {
+  ".gcode":"G-Code CNC & 3D Printing Script"
+  },
+  {
+  ".markup":"Generic Markup Document"
+  },
+  {
+  ".hamlet":"Hamlet HTML Web Page"
   }
  ]
 }
