@@ -2626,7 +2626,7 @@
   ".weba":"Weba Audio"
   },
   {
-  ".winget":"Winget Configuration"
+  ".winget":"Winget Package Configuration"
   },
   {
   ".wsf":"Windows Script"
@@ -2798,6 +2798,21 @@
   },
   {
   ".hamlet":"Hamlet HTML Web Page"
+  },
+  {
+  ".ac":"Autoconf Script"
+  },
+  {
+  ".gnumeric":"Gnumeric Spreadsheet"
+  },
+  {
+  ".gnucash":"GnuCash Financial Data"
+  },
+  {
+  ".nix":"Nix Package Configuration"
+  },
+  {
+  ".denemo":"Gnu Denemo Project"
   }
  ]
 }
