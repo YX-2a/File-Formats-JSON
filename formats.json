@@ -895,13 +895,13 @@
   ".pro":"QT Creator Project"
   }, 
   {
-  ".qml":"QML Markup Document"
+  ".qml":"QML User Interface Definition"
   }, 
   {
-  ".glade":"GTK XML Interface"
+  ".glade":"Glade User Interface Definition"
   }, 
   {
-  ".xaml":"Microsoft XAML Markup Document"
+  ".xaml":"Microsoft XAML User Interface Definition"
   }, 
   {
   ".toml":"TOML Markup Document"
@@ -2813,6 +2813,12 @@
   },
   {
   ".denemo":"Gnu Denemo Project"
+  },
+  {
+  ".whl":"Python Wheel Package"
+  },
+  {
+  ".ui":"Generic User Interface Definition"
   }
  ]
 }
