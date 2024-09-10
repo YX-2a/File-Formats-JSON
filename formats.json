@@ -2819,6 +2819,51 @@
   },
   {
   ".ui":"Generic User Interface Definition"
+  }, 
+  {
+  ".meta4":"Metalink 4.0 Data"
+  }, 
+  {
+  ".metalink":"Metalink Data"
+  }, 
+  {
+  ".gml":"GML Markup Geographical Data"
+  }, 
+  {
+  ".raml":"RAML Markup Document"
+  }, 
+  {
+  ".tnef":"MS TNEF Message"
+  }, 
+  {
+  ".tnf":"MS TNEF Message"
+  }, 
+  {
+  ".asar":"Electron Archive"
+  }, 
+  {
+  ".rtx":"Rich Text Document"
+  }, 
+  {
+  ".pcl":"HP Printer Command Language Document"
+  }, 
+  {
+  ".hpgl":"HP Vector Graphics Plotter"
+  }, 
+  {
+  ".ova":"OVF Disk Image"
+  }, 
+  {
+  ".siv":"Sieve Mail Filter Script"
+  }, 
+  {
+  ".sieve":"Sieve Mail Filter Script"
+  }, 
+  {
+  ".pkipath":"PkiPath Certification Path"
+  }, 
+  {
+  ".jad":"Java Application Descriptor"
   }
  ]
 }
