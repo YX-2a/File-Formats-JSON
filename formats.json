@@ -2296,13 +2296,13 @@
   ".lut":"SideFX Houdini Look-Up Table"
   },
   {
-  ".usd":"USD 3D Data (text/binary)"
+  ".usd":"USD 3D Data (Text/Binary)"
   }, 
   {
-  ".usda":"USD 3D Data (text)"
+  ".usda":"USD 3D Data (Text)"
   }, 
   {
-  ".usdc":"USD 3D Data (binary)"
+  ".usdc":"USD 3D Data (Binary)"
   }, 
   {
   ".usdz":"Compressed USD 3D Object"
@@ -2864,6 +2864,72 @@
   }, 
   {
   ".jad":"Java Application Descriptor"
+  }, 
+  {
+  ".cvr":"Microsoft Temporary Data"
+  }, 
+  {
+  ".tmp":"Generic Temporary Data"
+  },
+  {
+  ".cvs":"CVSD Audio"
+  },
+  {
+  ".cvsd":"CVSD Audio"
+  },
+  {
+  ".cvu":"CVSD Unfiltered Audio"
+  },
+  {
+  ".dvms":"DVMS Audio"
+  },
+  {
+  ".gsm":"GSM Audio"
+  },
+  {
+  ".g3":"Group 3 FAX Image"
+  },
+  {
+  ".g4":"Group 4 FAX Image"
+  },
+  {
+  ".gv":"Graphviz Image"
+  },
+  {
+  ".dvm":"DVM Video"
+  }, 
+  {
+  ".mud":"AutoDesk Mudbox Project"
+  }, 
+  {
+  ".qss":"Qt Style Sheet"
+  },
+  {
+  ".brep":"B-rep 3D Object"
+  },
+  {
+  ".nwd":"NavisWorks Project"
+  },
+  {
+  ".nwc":"Navisworks Cache"
+  },
+  {
+  ".nwf":"Navisworks Refrence"
+  },
+  {
+  ".sia":"Silo 3D Object (Text)"
+  },
+  {
+  ".sib":"Silo 3D Object (Binary)"
+  },
+  {
+  ".FCStd":"FreeCad Project"
+  },
+  {
+  ".FCMacro":"FreeCad Macro"
+  },
+  {
+  ".pov":"POV-Ray Script"
   }
  ]
 }
