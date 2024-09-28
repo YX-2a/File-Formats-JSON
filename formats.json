@@ -2930,6 +2930,45 @@
   },
   {
   ".pov":"POV-Ray Script"
+  },
+  {
+  ".FCBak":"FreeCAD Backup"
+  },
+  {
+  ".xdmf":"XDMF Markup 3D Object"
+  },
+  {
+  ".poly":"POLY 3D Object"
+  },
+  {
+  ".meshyaml":"FEM Mesh YAML 3D Object"
+  },
+  {
+  ".meshpy":"FEM Mesh Python 3D Object"
+  },
+  {
+  ".meshjson":"FEM Mesh JSON 3D Object"
+  },
+  {
+  ".ifcjson":"IFC JSON 3D Object"
+  },
+  {
+  ".off":"OFF 3D Object"
+  },
+  {
+  ".csg":"OpenSCAD CSG 3D Object"
+  },
+  {
+  ".scad":"OpenSCAD Script"
+  },
+  {
+  ".vtk":"VTK 3D Object"
+  },
+  {
+  ".unv":"UNV 3D Object"
+  },
+  {
+  ".gcad":"GCAD 3D Object"
   }
  ]
 }
