@@ -2969,6 +2969,51 @@
   },
   {
   ".gcad":"GCAD 3D Object"
+  }, 
+  {
+  ".rvt":"AutoDesk Revit Project"
+  }, 
+  {
+  ".dws":"AutoCAD Drawing Standards"
+  }, 
+  {
+  ".sldprt":"SolidWorks Part"
+  }, 
+  {
+  ".sldasm":"SolidWorks Assembly"
+  }, 
+  {
+  ".ipt":"AutoDesk Inventor Part"
+  }, 
+  {
+  ".dxf":"DXF CAD Drawing"
+  }, 
+  {
+  ".dwf":"DWF Design Data"
+  }, 
+  {
+  ".f3d":"Autodesk Fusion Project"
+  }, 
+  {
+  ".f2d":"Autodesk Fusion 2D Design"
+  }, 
+  {
+  ".f3z":"Compressed Autodesk Fusion Project"
+  }, 
+  {
+  ".lff":"LibreCAD Font"
+  }, 
+  {
+  ".CATProduct":"CATIA V5 Assembly"
+  }, 
+  {
+  ".CATPart":"CATIA V5 Part"
+  }, 
+  {
+  ".stcp":"SprutCAM Project"
+  }, 
+  {
+  ".stcx":"SprutCAM XML Project"
   }
  ]
 }
