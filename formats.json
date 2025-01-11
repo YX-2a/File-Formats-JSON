@@ -3020,6 +3020,15 @@
   },
   {
   ".mobi":"Kindle eBook"
+  },
+  {
+  ".m3u":"M3U Playlist"
+  },
+  {
+  ".asx":"Windows Media Player XML Playlist"
+  },
+  {
+  ".wpl":"Windows Media Player Playlist"
   }
  ]
 }
