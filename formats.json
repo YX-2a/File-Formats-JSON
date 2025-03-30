@@ -3029,6 +3029,27 @@
   },
   {
   ".wpl":"Windows Media Player Playlist"
+  },
+  {
+  ".dp":"DP Data"
+  },
+  {
+  ".gram": "PEG/ABNF Grammar"
+  },
+  {
+  ".asdl":"ASDL Data"
+  },
+  {
+  ".psf":"Linux PSF Console Font"
+  },
+  {
+  ".menu":"FreeDesktop Menu Definition"
+  },
+  {
+  ".grxml":"GrXML Markup"
+  },
+  {
+  ".edgeql":"EdgeQL Query"
   }
  ]
 }
