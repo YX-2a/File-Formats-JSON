@@ -1438,7 +1438,7 @@
   ".dbk":"DocBook Document"
   }, 
   {
-  ".mxl":"Music XML Document"
+  ".mxl":"Music XML Musical Notation"
   }, 
   {
   ".adoc":"AsciiDoc Document"
@@ -3050,6 +3050,36 @@
   },
   {
   ".edgeql":"EdgeQL Query"
+  },
+  {
+  ".off":"OptimFrog Lossy Audio"
+  },
+  {
+  ".ofr":"OptimFROG Loseless Audio"
+  },
+  {
+  ".ofs":"OptimFROG DualStream Audio"
+  },
+  {
+  ".tak":"TAK Audio"
+  },
+  {
+  ".shn":"Shorten Audio"
+  },
+  {
+  ".tta":"True Audio Loseless Audio"
+  },
+  {
+  ".ly":"GNU LilyPond Musical Notation"
+  },
+  {
+  ".musicxml":"True Audio Loseless Audio"
+  },
+  {
+  ".chopro":"ChordPro Chord Chart"
+  },
+  {
+  ".chordpro":"ChordPro Chord Chart"
   }
  ]
 }
