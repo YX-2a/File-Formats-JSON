@@ -3080,6 +3080,45 @@
   },
   {
   ".chordpro":"ChordPro Chord Chart"
+  },
+  {
+  ".vti":"VTK XML Serial ImageData"
+  },
+  {
+  ".vtp":"VTK XML Serial PolyData"
+  },
+  {
+  ".vtr":"VTK XML Serial Rectilinear Grid"
+  },
+  {
+  ".vts":"VTK XML Serial Structured Grid"
+  },
+  {
+  ".vtu":"VTK XML Serial Unstructured Grid"
+  },
+  {
+  ".pvti":"VTK XML Parallel ImageData"
+  },
+  {
+  ".pvtp":"VTK XML Parallel PolyData"
+  },
+  {
+  ".pvtr":"VTK XML Parallel Rectilinear Grid"
+  },
+  {
+  ".pvts":"VTK XML Parallel Structured Grid"
+  },
+  {
+  ".pvtu":"VTK XML Parallel Unstructured Grid"
+  },
+  {
+  ".vtkhdf":"VTK HDF5 Data"
+  },
+  {
+  ".dcl":"AutoCAD Dialog Control Script"
+  },
+  {
+  ".mnl":"AutoLISP Source Code"
   }
  ]
 }
