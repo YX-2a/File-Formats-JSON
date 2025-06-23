@@ -130,10 +130,10 @@
    ".xml": "XML Markup Document"
   },
   {
-   ".html": "Html Web page"
+   ".html": "Html Web Document"
   },
   {
-   ".htm": "Html Web Page"
+   ".htm": "Html Web Document"
   },
   {
    ".css": "CSS Style Sheet"
@@ -223,7 +223,7 @@
    ".java": "Java Source Code"
   },
   {
-   ".jar": "Java Archive"
+   ".jar": "Java Executable Archive"
   },
   {
    ".c": "C/C++ Source Code"
@@ -382,7 +382,7 @@
   ".br":"Brotli Compressed Archive"
   },
   {
-  ".sh":"Bash Shell Script"
+  ".sh":"Generic Shell Script"
   },
   {
   ".so":"Unix Dynamic Shared Library"
@@ -595,7 +595,7 @@
   ".php":"PHP Script"
   },
   {
-  ".v":"Vlang Source Code"
+  ".v":"Vlang Source Code/Verilog Hardware Description"
   },
   {
   ".vsh":"Vlang Source Code"
@@ -1267,7 +1267,7 @@
   ".rmv":"Radical Entertainment Game Video"
   }, 
   {
-  ".imk":"IMake Makefile"
+  ".imk":"IMake Configuration"
   }, 
   {
   ".midi":"MIDI Audio"
@@ -1387,7 +1387,7 @@
   ".mak":"Make Configuration"
   }, 
   {
-  ".log":"LOG Information"
+  ".log":"Generic Log Report"
   }, 
   {
   ".3":"Unix ManPage Help"
@@ -1414,10 +1414,10 @@
   ".xps":"MS XPS Markup Document"
   }, 
   {
-  ".markdn":"MarkDown Document"
+  ".markdn":"MarkDown Markup Document"
   }, 
   {
-  ".markdown":"MarkDown Document"
+  ".markdown":"MarkDown Markup Document"
   }, 
   {
   ".oxps":"OpenXPS Markup Document"
@@ -1444,7 +1444,7 @@
   ".adoc":"AsciiDoc Document"
   }, 
   {
-  ".xhtml":"XHTML Web Page"
+  ".xhtml":"XHTML Web Document"
   }, 
   {
   ".sgml":"SGML Markup Document"
@@ -1852,7 +1852,7 @@
   ".phpt":"PHP Test Layout"
   }, 
   {
-  ".phtml":"PHP HTML Web Page"
+  ".phtml":"HTML+PHP Web Document"
   }, 
   {
   ".xsml":"XSML Markup Document"
@@ -2473,7 +2473,7 @@
   ".edl":"Edit Decision Lists"
   }, 
   {
-  ".ale":"ALE Log"
+  ".ale":"ALE Log Report"
   }, 
   {
   ".mxf":"MXF Video/Audio"
@@ -2533,10 +2533,10 @@
   ".bup":"DVD Video"
   }, 
   {
-  ".gdb":"Geodatabase GIS Data"
+  ".gdb":"Geodatabase GIS Data/"
   }, 
   {
-  ".geojson":"GeoJSON Data"
+  ".geojson":"GeoJSON Geographical Data"
   }, 
   {
   ".mmp":"Measure Map Pro GIS Data"
@@ -2641,7 +2641,7 @@
   ".anx":"Annodex Video"
   },
   {
-  ".es":"ECMAScript Script"
+  ".es":"ECMAScript Script/Erlang Script"
   },
   {
   ".pfr":"TDPFR Font"
@@ -2743,13 +2743,13 @@
   ".po":"GNU Gettext Localizable Strings"
   }, 
   {
-  ".regtrans-ms":"Registry Change Log"
+  ".regtrans-ms":"Registry Change Log Report"
   }, 
   {
-  ".log1":"LOG Information"
+  ".log1":"Generic Log Report"
   }, 
   {
-  ".log2":"LOG Information"
+  ".log2":"Generic Log Report"
   }, 
   {
   ".vbox-prev":"VirtualBox VM Configuration"
@@ -2797,7 +2797,7 @@
   ".markup":"Generic Markup Document"
   },
   {
-  ".hamlet":"Hamlet HTML Web Page"
+  ".hamlet":"Hamlet HTML Web Document"
   },
   {
   ".ac":"Autoconf Script"
@@ -2890,7 +2890,7 @@
   ".g3":"Group 3 FAX Image"
   },
   {
-  ".g4":"Group 4 FAX Image"
+  ".g4":"ANTLR Grammar / Group 4 FAX Image"
   },
   {
   ".gv":"Graphviz Image"
@@ -3046,7 +3046,7 @@
   ".menu":"FreeDesktop Menu Definition"
   },
   {
-  ".grxml":"GrXML Markup"
+  ".grxml":"GrXML Markup Document"
   },
   {
   ".edgeql":"EdgeQL Query"
@@ -3119,6 +3119,894 @@
   },
   {
   ".mnl":"AutoLISP Source Code"
+  }, 
+  {
+  ".ada":"Ada Source Code"
+  },
+  {
+  ".scpt":"Compiled AppleScript Script"
+  }, 
+  {
+  ".ino":"Arduino Sketch"
+  },
+  {
+  ".asciidoc":"AsciiDoc Document"
+  },
+  {
+  ".aj":"AspectJ Source Code"
+  },
+  {
+  ".ahk":"AutoHotKey Script"
+  },
+  {
+  ".ahk1":"AutoHotKey v1 Script"
+  },
+  {
+  ".ahk2":"AutoHotKey v2 Script"
+  }, 
+  {
+  ".gawk":"GNU Awk Script"
+  }, 
+  {
+  ".nawk":"NAwk Script"
+  },
+  {
+  ".bb":"BitBake Metadata"
+  },
+  {
+  ".bison":"GNU Bison Grammar"
+  },
+  {
+  ".befunge":"Befunge Source Code"
+  },
+  {
+  ".x10":"X10 Source Code"
+  },
+  {
+  ".webidl":"Web IDL Source Code"
+  },
+  {
+  ".abap":"ABAP Repository Object"
+  },
+  {
+  ".ampl":"AMPL Math Data"
+  },
+  {
+  ".apib":"API Blueprint Description"
+  },
+  {
+  ".dyalog":"Dyalog APL SALT"
+  },
+  {
+  ".dyapp":"Dyalog APL SALT Application"
+  },
+  {
+  ".agda":"AGDA Source Code"
+  },
+  {
+  ".coq":"COQ/ROCQ Script"
+  },
+  {
+  ".apacheconf":"Apache Server Configuration"
+  },
+  {
+  ".brs":"BrightScript Script"
+  }, 
+  {
+  ".cake":"Cake Configuration"
+  },
+  {
+  ".cshtml":"C# HTML Web Document"
+  },
+  {
+  ".c++":"C++ Source Code"
+  },
+  {
+  ".h++":"C++ Header"
+  },
+  {
+  ".hh":"C++ Header"
+  },
+  {
+  ".c-objdump":"C Object Dump"
+  },
+  {
+  ".cppobjdump":"C++ Object Dump"
+  },
+  {
+  ".c++-objdump":"C++ Object Dump"
+  },
+  {
+  ".c++objdump":"C++ Object Dump"
+  },
+  {
+  ".cpp-objdump":"C++ Object Dump"
+  },
+  {
+  ".cxx-objdump":"C++ Object Dump"
+  },
+  {
+  ".d-objdump":"Dlang Object Dump"
+  },
+  {
+  ".objdump":"Generic Object Dump"
+  },
+  {
+  ".zeek":"Zeek Script"
+  },
+  {
+  ".rpy":"Ren'Py Script"
+  },
+  {
+  ".pyp":"Python Package"
+  },
+  {
+  ".pyt":"Python Template"
+  },
+  {
+  ".pyx":"Cython Script"
+  },
+  {
+  ".pxd":"Cython Declarations"
+  },
+  {
+  ".pxi":"Cython Include Directives"
+  },
+  {
+  ".xpy":"Python Extension"
+  },
+  {
+  ".creole":"Creole Markup Document"
+  },
+  {
+  ".cbl":"COBOL Source Code"
+  },
+  {
+  ".cob":"COBOL Source Code"
+  },
+  {
+  ".cobol":"COBOL Source Code"
+  },
+  {
+  ".capnp":"Cap'n Proto Data"
+  },
+  {
+  ".graphql":"GraphQl Schema"
+  },
+  {
+  ".grace":"Grace Script"
+  },
+  {
+  ".gradle":"Gradle Script"
+  },
+  {
+  ".golo":"Golo Script"
+  },
+  {
+  ".ecr":"HTML+ECR Web Template"
+  },
+  {
+  ".eex":"HTML+EEX Web Template"
+  },
+  {
+  ".erb":"HTML+ERB Web Template"
+  },
+  {
+  ".jinja":"Jinja Web Template"
+  },
+  {
+  ".ipynb":"Python Jupyter Notebook"
+  },
+  {
+  ".ktm":"Kotlin Module"
+  },
+  {
+  ".kts":"Kotlin Script"
+  },
+  {
+  ".lean":"Lean Source Code"
+  },
+  {
+  ".lasso":"Lasso Script"
+  },
+  {
+  ".latte":"Latte PHP Web Template"
+  },
+  {
+  ".less":"Uncompiled LESS CSS Style Sheet"
+  },
+  {
+  ".qbs":"Qt Build Suite Project"
+  },
+  {
+  ".hlean":"Lean Header"
+  },
+  {
+  ".lasso8":"Lasso 8 Script"
+  },
+  {
+  ".lasso9":"Lasso 9 Script"
+  },
+  {
+  ".zep":"Zephir Source Code"
+  },
+  {
+  ".yacc":"Yacc Grammar"
+  },
+  {
+  ".yang":"YANG Configuration"
+  },
+  {
+  ".zimpl":"Zimpl Script"
+  },
+  {
+  ".zmpl":"Zimpl Script"
+  },
+  {
+  ".zpl":"Zimpl Script"
+  },
+  {
+  ".xtend":"Xtend Java Source Code"
+  },
+  {
+  ".xojo_code":"Xojo Source Code"
+  },
+  {
+  ".xojo_menu":"Xojo Menu Configuration"
+  },
+  {
+  ".xojo_report":"Xojo Report"
+  },
+  {
+  ".xojo_script":"Xojo Script"
+  },
+  {
+  ".xojo_toolbar":"Xojo Toolbar Configuration"
+  },
+  {
+  ".xojo_window":"Xojo User Interface Definition"
+  },
+  {
+  ".xslt":"XSLT Style Sheet"
+  },
+  {
+  ".ant":"Apache Ant Script"
+  },
+  {
+  ".axml":"Android XML User Interface Definition"
+  },
+  {
+  ".builds":"Generic Build Configuration"
+  },
+  {
+  ".cproject":"C/C++ Project"
+  },
+  {
+  ".dotsettings":"Microsoft Visual Studio Settings"
+  },
+  {
+  ".fsproj":"F# Project"
+  },
+  {
+  ".fxml":"JavaFX XML User Interface Definition"
+  },
+  {
+  ".iml":"JetBrains IntelliJ IDEA Module"
+  },
+  {
+  ".ivy":"Apache Ivy Dependency Description"
+  },
+  {
+  ".jelly":"Jelly Script"
+  },
+  {
+  ".jsproj":"JavaScript Project"
+  },
+  {
+  ".mdpolicy":"Metadata Policy"
+  },
+  {
+  ".mxml":"MXML Adobe Flex User Interface Definition"
+  },
+  {
+  ".nuspec":"NuGet Package Specification"
+  },
+  {
+  ".pkgproj":"Generic Software Package Project"
+  },
+  {
+  ".psc1":"PowerShell Console Settings"
+  },
+  {
+  ".resx":".NET Resource"
+  },
+  {
+  ".sfproj":"Salesforce Project"
+  },
+  {
+  ".pt":"Portable Text Document"
+  },
+  {
+  ".tmCommand":"TextMate Command"
+  },
+  {
+  ".tml":"ThoughtSpot Object"
+  },
+  {
+  ".tmLanguage":"TextMate Language Grammar"
+  },
+  {
+  ".tmPreferences":"TextMate User Prefrences"
+  },
+  {
+  ".tmSnippet":"TextMate Code Snippet"
+  },
+  {
+  ".tmTheme":"TextMate Theme"
+  },
+  {
+  ".vbproj":"Microsoft Visual Basic Project"
+  },
+  {
+  ".vcxproj":"Microsoft Visual C++ Project"
+  },
+  {
+  ".vssettings":"Microsoft Visual Studio Settings"
+  },
+  {
+  ".ux":"Generic User Experience Definition"
+  },
+  {
+  ".wsdl":"Web Services Description"
+  },
+  {
+  ".xacro":"XML Macro"
+  },
+  {
+  ".xlf":"XLIFF Localizable Data"
+  },
+  {
+  ".xliff":"XLIFF Localizable Data"
+  },
+  {
+  ".xmi":"XML Metadata"
+  },
+  {
+  ".zcml":"Zope Configuration"
+  },
+  {
+  ".project":"Generic Project"
+  },
+  {
+  ".ccxml":"Code Coverage XML Data"
+  },
+  {
+  ".ct":"Content Type Data"
+  },
+  {
+  ".dita":"DITA Document"
+  },
+  {
+  ".ditamap":"DITA Documen Map"
+  },
+  {
+  ".launch":"ROS Launch Configuration"
+  },
+  {
+  ".odd":"OpenDocument Vector Image"
+  },
+  {
+  ".pluginspec":"Generic Plug-in Specification"
+  },
+  {
+  ".props":"MSBuild Property Definition"
+  },
+  {
+  ".targets":"MSBuild Targets Definition"
+  },
+  {
+  ".wixobj":"WiX Object"
+  },
+  {
+  ".wixmst":"WiX XML Output Difference Information"
+  },
+  {
+  ".wixmsp":"WiX XML Patch"
+  },
+  {
+  ".wixpdb":"WiX Debug Information"
+  },
+  {
+  ".wixlib":"WiX Library"
+  },
+  {
+  ".wixout":"WiX XML Output"
+  },
+  {
+  ".wxs":"WiX Source Code"
+  },
+  {
+  ".wxi":"WiX Include Directives"
+  },
+  {
+  ".wxl":"WiX Localizable Strings"
+  },
+  {
+  ".xproj":"Microsoft Visual Studio .NET Core Project"
+  },
+  {
+  ".classpath":"Java Class Path Defintion"
+  },
+  {
+  ".clixml":"PowerShell Serialized Objects"
+  },
+  {
+  ".csl":"CSL Citation Display Description"
+  },
+  {
+  ".nproj":"NAnt .NET Build Configuration"
+  },
+  {
+  ".ec":"eC Source Code"
+  },
+  {
+  ".edn":"EDN Data"
+  },
+  {
+  ".eh":"EDN Data"
+  },
+  {
+  ".fish":"Fish Script"
+  },
+  {
+  ".nc":"NetCDF Scientific Data"
+  },
+  { 
+  ".wisp":"Wisp Script"
+  },
+  {
+  ".reek":"Reek Configuration"
+  },
+  {
+  ".rvis":"ROS RViz Configuration"
+  },
+  {
+  ".syntax":"Generic Syntax Definition"
+  },
+  {
+  ".xquery":"XQuery Script"
+  },
+  {
+  ".xq":"XQuery Script"
+  },
+  {
+  ".xqm":"XQuery Module"
+  },
+  {
+  ".xqy":"XQuery Script"
+  },
+  {
+  ".mtl":"Wavefront 3D Material"
+  },
+  {
+  ".vue":"Vue.js Single-File Component"
+  },
+  {
+  ".vhdl":"VHDL Source Code"
+  },
+  {
+  ".vhf":"VHDL Functions"
+  },
+  {
+  ".vhi":"VHDL Include Directives"
+  },
+  {
+  ".vho":"VHDL Output"
+  },
+  {
+  ".vhs":"VHDL Simulation Script"
+  },
+  {
+  ".vht":"VHDL Test"
+  },
+  {
+  ".vhw":"VHDL Waveform"
+  },
+  {
+  "uno.":"Uno Source Code"
+  },
+  {
+  ".anim":"Unity 3D Animation"
+  },
+  {
+  ".mat":"MATLAB Data"
+  },
+  {
+  ".prefab":"Unity Game Object"
+  },
+  {
+  ".unity":"Unity Scene"
+  },
+  {
+  ".upc":"Universal Product Code Data"
+  },
+  {
+  ".twig":"Twig PHP Web Template"
+  },
+  {
+  ".ttl":"Turtle RDF Data"
+  },
+  {
+  ".nt":"N-Triples RDF Data"
+  },
+  {
+  ".nq":"N-Quads RDF Data"
+  },
+  {
+  ".trig":"TriG RDF Data"
+  },
+  {
+  ".thrift":"Apache Thrift "
+  },
+  {
+  ".tea":"Tea Web Template"
+  },
+  {
+  ".cl2":"Clojure 2 Source Code"
+  },
+  {
+  ".cljc":"Clojure/ClojureScript Source Code"
+  },
+  {
+  ".cljs":"ClojureScript Script"
+  },
+  {
+  ".cjsx":"CoffeeScript+JSX Script"
+  },
+  {
+  ".cson":"CoffeeScript Object Notation Data"
+  },
+  {
+  ".iced":" IcedCoffeeScript Script"
+  },
+  {
+  ".clw":"Clarion Source Code/Visual C++ ClassWizard Template"
+  },
+  {
+  ".cirru":"Cirru Lisp Script"
+  },
+  {
+  ".chpl":"Chapel Source Code"
+  },
+  {
+  ".ceylon":"Ceylon Source Code"
+  },
+  {
+  ".cfm":"Adobe ColdFusion Web Document"
+  },
+  {
+  ".cfml":"Adobe ColdFusion Web Document"
+  },
+  {
+  ".cfc":"Adobe ColdFusion Module"
+  },
+  {
+  ".cr":"Crystal Source Code"
+  },
+  {
+  ".dockerfile":"Docker Container Image"
+  },
+  {
+  ".ex":"Elixir Source Code"
+  },
+  {
+  ".exs":"Elixir Script"
+  },
+  {
+  ".emacs":"Emacs Configuration"
+  },
+  {
+  ".emberscript":"EmberScript Script"
+  },
+  {
+  ".erl":"Erlang Source Code"
+  },
+  {
+  ".escript":"Erlang Script"
+  },
+  {
+  ".f03":"Fortran 2003 Source Code"
+  },
+  {
+  ".f08":"Fortran 2008 Source Code"
+  },
+  {
+  ".f77":"Fortran 1977 Source Code"
+  },
+  {
+  ".f95":"Fortran 1995 Source Code"
+  },
+  {
+  ".ebuild":"Gentoo Ebuild Data"
+  },
+  {
+  ".eclass":"Gentoo Eclass Data"
+  },
+  {
+  ".gnuplot":"Gnuplot Script"
+  },
+  {
+  ".forth":"Forth Source Code"
+  },
+  {
+  ".fan":"Fantom Source Code"
+  },
+  {
+  ".frt":"Forth Source Code"
+  },
+  {
+  ".gd":"GDScript Script"
+  },
+  {
+  ".frag":"GLSL Fragment Shader"
+  },
+  {
+  ".fsh":"GLSL Fragment Shader"
+  },
+  {
+  ".fshader":"GLSL Fragment Shader"
+  },
+  {
+  ".glslv":"GLSL Vertex"
+  },
+  {
+  ".gshader":"GLSL Geometry Shader"
+  },
+  {
+  ".shader":"Generic Shader"
+  },
+  {
+  ".vshader":"GLSL Vertex Shader"
+  },
+  {
+  ".xht":"XHTML Web Document"
+  },
+  {
+  ".http":"HTTP Request"
+  },
+  {
+  ".hsc":"Haskell Source Code"
+  },
+  {
+  ".idr":"Idris Source Code"
+  },
+  {
+  ".lidr":"Idris Library"
+  },
+  {
+  ".hx":"Haxe Source Code"
+  },
+  {
+  ".hxsl":"Haxe Shader"
+  },
+  {
+  ".hlsli":"HLSL Include Directives"
+  },
+  {
+  "hcl":"HashiCorp Configuration"
+  },
+  {
+  ".tf":"Terraform Configuration"
+  },
+  {
+  ".handlebars":"Handlebars.js JavaScript Template"
+  },
+  {
+  ".i7x":"Inform 7 Extension"
+  },
+  {
+  ".thy":"Isabelle Source Code"
+  },
+  {
+  ".ijs":"J Source Code"
+  },
+  {
+  ".topojson":"TopoJSON Topological Data"
+  },
+  {
+  ".irclog":"IRC Log Report"
+  },
+  {
+  ".liquid":"Liquid Web Template"
+  },
+  {
+  ".jade":"Jade Node.js Template"
+  },
+  {
+  ".lagda":"Literate Agda Source Code"
+  },
+  {
+  ".ld":"GNU Linker Script"
+  },
+  {
+  ".litcoffee":"Literate CoffeeScript Script"
+  },
+  {
+  ".lhs":"Literate Haskell Source Code"
+  },
+  {
+  ".wlua":"Lua Script (WLang)"
+  },
+  {
+  ".rbxs":"Roblox Lua Script"
+  },
+  {
+  ".rbxm":"Roblox 3D Object"
+  },
+  {
+  ".pd_lua":"Lua Script (Pure Data)"
+  },
+  {
+  ".fcgi":"FastCGI script"
+  },
+  {
+  ".mumps":"MUMPS Source Code"
+  },
+  {
+  ".mcr":"3ds Max MaxScript Macro Script"
+  },
+  {
+  ".mtml":"Markdown Template"
+  },
+  {
+  ".mk":"Make Configuration"
+  },
+  {
+  ".mkfile":"Make Configuration"
+  },
+  {
+  ".mkd":"MarkDown Markup Document"
+  },
+  {
+  ".mkdown":"MarkDown Markup Document"
+  },
+  {
+  ".matlab":"MATLAB Script"
+  },
+  {
+  ".mathematica ":"Mathematica Notebook"
+  },
+  {
+  ".gs":"Google Apps Script"
+  },
+  {
+  ".jsb":"JavaScript Build Definition"
+  },
+  {
+  ".jss":"JavaScript Style Sheet"
+  },
+  {
+  ".jsm":"JavaScript Module"
+  },
+  {
+  ".njs":"Node.js Script"
+  },
+  {
+  ".sjs":"SpreadJS SpreadSheet"
+  },
+  {
+  ".xsjs":"SAP HANA XS JavaScript Script"
+  },
+  {
+  ".xsjslib":"SAP HANA XS JavaScript Library"
+  },
+  {
+  ".myt":"Myghty Web Template"
+  },
+  {
+  ".mako":"Mako Web Template"
+  },
+  {
+  ".mediawiki":"MediaWiki Markup Document"
+  },
+  {
+  ".logtalk":"Logtalk Script"
+  },
+  {
+  ".npy":"NumPy Array"
+  },
+  {
+  ".npz":"NumPy Zipped Array"
+  },
+  {
+  ".ninja":"Ninja Build Script"
+  },
+  {
+  ".nimrod":"Nimrod/Nim Source Code"
+  },
+  {
+  ".nim":"Nimrod/Nim Source Code"
+  },
+  {
+  ".oxygene":"Oxygene Source Code"
+  },
+  {
+  ".raku":"Raku Source Code"
+  },
+  {
+  ".rakumod":"Raku Module"
+  },
+  {
+  ".pir":"Parrot Source Code"
+  },
+  {
+  ".pasm":"Parrot Assembly Source Code"
+  },
+  {
+  ".pbc":"Parrot Bytecode"
+  },
+  {
+  ".pd":"Pure Data Patch"
+  },
+  {
+  ".psd1":"PowerShell Data"
+  },
+  {
+  ".psm1":"PowerShell Module"
+  },
+  {
+  ".pogo":"PogoPlug Configuration"
+  },
+  {
+  ".rhtml":"HTML+ERB Web Template"
+  },
+  {
+  ".rebol":"REBOL Script"
+  },
+  {
+  ".rake":"Rake Build Script"
+  },
+  {
+  ".rbw":"Ruby Script"
+  },
+  {
+  ".sparql":"SPARQL Data"
+  },
+  {
+  ".ston":"Smalltalk Object Notation Data"
+  },
+  {
+  ".tcsh":"TC Shell Script"
+  },
+  {
+  ".sass":"Sass CSS Style Sheet"
+  },
+  {
+  ".scaml":"Scaml Web Template"
+  },
+  {
+  ".rdoc":"Ruby Documentation"
+  },
+  {
+  ".bash":"Bash Shell Script"
+  },
+  {
+  ".slim":"Slim Web Template"
+  },
+  {
+  ".sage":"SageMath Script"
+  },
+  {
+  ".rsh":"Remote Shell Script"
+  },
+  {
+  ".self":"Self Source Code"
+  },
+  {
+  ".rktd":"Racket Test"
+  },
+  {
+  ".scrbl":"Scribble Documentation"
   }
  ]
 }
