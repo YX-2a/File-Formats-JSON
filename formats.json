@@ -1507,7 +1507,7 @@
   ".cbor":"CBOR Data"
   }, 
   {
-  ".u3d":"U3D 3D Model"
+  ".u3d":"U3D 3D Object"
   }, 
   {
   ".ebk":"eBook Pro eBook"
@@ -1858,7 +1858,7 @@
   ".xsml":"XSML Markup Document"
   }, 
   {
-  ".rc":"C/C++ Resource File"
+  ".rc":"C/C++ Resource"
   }, 
   {
   ".vqf":"TwinVQ Audio"
@@ -2735,7 +2735,10 @@
   }, 
   {
   ".p8":"PKCS #8 Private Key"
-  }, 
+  },
+  {
+  ".pkcs8":"PKCS #8 Private Key"
+  },
   {
   ".doap":"Project Description Text Document"
   }, 
@@ -4007,6 +4010,111 @@
   },
   {
   ".scrbl":"Scribble Documentation"
+  },
+  {
+  ".zpaq":"Zpaq Compressed Archive"
+  },  
+  {
+  ".xbel":"XBEL XML Bookmarks"
+  },  
+  {
+  ".ustar":"POSIX Tar Archive"
+  },  
+  {
+  ".tzo":"Tar Archived, LZO Compressed"
+  },  
+  {
+  ".spkac":"SPKAC Certificate Request"
+  },  
+  {
+  ".siag":"Siag Spreadsheet"
+  },  
+  {
+  ".pce":"PC Engine/TurboGrafx-16 Rom Image"
+  },  
+  {
+  ".openvpn":"OpenVPN Connection Profile"
+  },  
+  {
+  ".ovpn":"OpenVPN Connection Profile"
+  },  
+  {
+  ".oleo":"GNU Oleo Spreadsheet"
+  },  
+  {
+  ".n64":"Nintendo 64 Little Endian Rom Image?"
+  },  
+  {
+  ".z64":"Nintendo 64 Big Endian Rom Image"
+  },  
+  {
+  ".v64":"Nintendo 64 Byte Swapped Rom Image"
+  },  
+  {
+  ".mgp":"MagicPoint Presentation"
+  },  
+  {
+  ".lyx":"LyX Structured Text Document"
+  },  
+  {
+  ".tlrz":"Tar Archived, Lrzip Compressed"
+  },  
+  {
+  ".lhz":"LHA Compressed Archive"
+  },  
+  {
+  ".kwd":"KWord Structured Text Document"
+  },  
+  {
+  ".kexi":"Calligra KEXI Database"
+  },  
+  {
+  ".kexis":"Calligra KEXI Shortcut"
+  },  
+  {
+  ".kexic":"Calligra KEXI Settings"
+  },  
+  {
+  ".bdf":"BDF Font"
+  },  
+  {
+  ".egon":"Siag Egon Animator Project"
+  },  
+  {
+  ".bcpio":"Binary CPIO Archive"
+  },  
+  {
+  ".vcs":"VCalender Calendar"
+  },  
+  {
+  ".jceks":"JCEKS KeyStore"
+  },  
+  {
+  ".jks":"Java KeyStore"
+  },  
+  {
+  ".p8e":"PKCS #8 Encrypted Private Key"
+  },  
+  {
+  ".3mf":"3MF XML 3d Object"
+  },  
+  {
+  ".gx":"G-Code Extended 3D Printing Script"
+  },  
+  {
+  ".lz4":"LZ4 Compressed Archive"
+  },  
+  {
+  ".flatpakref":"Flatpak Repository Reference"
+  },  
+  {
+  ".flatpakrepo":"Flatpak Repository Description"
+  },  
+  {
+  ".dar":"DAR Archive"
+  },  
+  {
+  ".kdelnk":"KDE Shortcut"
   }
  ]
 }
