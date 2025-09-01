@@ -10,7 +10,7 @@
    ".avifs": "AV1 Image"
   },
   {
-   ".bmp": "Bitmap Image"
+   ".bmp": "Windows Bitmap Image"
   },
   {
    ".pdf": "PDF Document"
@@ -268,16 +268,16 @@
    ".svg": "Standard Vector Image"
   },
   {
-   ".ppm": "Portable Pixmap Image"
+   ".ppm": "Netpbm Portable Pixmap Image"
   },
   {
-   ".pgm": "Portable Graymap Image"
+   ".pgm": "Netpbm Portable Graymap Image"
   },
   {
-   ".pbm": "Portable Bitmap Image"
+   ".pbm": "Netpbm Portable Bitmap Image"
   },
   {
-   ".pnm": "Portable Anymap Image"
+   ".pnm": "Netpbm Portable Anymap Image"
   },
   {
    ".wepb": "WEBP Image"
@@ -1465,7 +1465,7 @@
   ".bnp":"Video Information Data"
   }, 
   {
-  ".jpx":"JPEG 2000 Image"
+  ".jpx":"JPEG 2000 Extended Image"
   }, 
   {
   ".cr2":"Raw Canon Camera Footage"
@@ -1549,7 +1549,7 @@
   ".fnt":"Legacy Windows Font"
   }, 
   {
-  ".dib":"Bitmap Image"
+  ".dib":"Windows Bitmap Image"
   }, 
   {
   ".ecw":"ECW Image"
@@ -2431,16 +2431,16 @@
   ".grib":"GRIB Meterological Data"
   }, 
   {
-  ".j2k":"JPEG 2000 Image"
+  ".j2k":"JPEG 2000 Codestream Data"
   }, 
   {
-  ".jpc":"JPEG 2000 Image"
+  ".jpc":"JPEG 2000 Codestream Data"
   }, 
   {
-  ".jpf":"JPEG 2000 Image"
+  ".jpf":"JPEG 2000 Extended Image"
   }, 
   {
-  ".j2c":"JPEG 2000 Image"
+  ".j2c":"JPEG 2000 Codestream Data"
   }, 
   {
   ".rcx":"REDCINE-X PRO Project"
@@ -2518,7 +2518,7 @@
   ".xdxf":"XDXF Dictionary"
   },
   {
-  ".mk3d":"Matroska Stereoscopic Video"
+  ".mk3d":"Matroska 3D Video"
   }, 
   {
   ".mka":"Matroska Audio"
@@ -4115,6 +4115,87 @@
   },  
   {
   ".kdelnk":"KDE Shortcut"
+  },
+  {
+  ".vivo":"VivoActive Video"
+  },
+  {
+  ".3gpp2":"3G2 Video/Audio"
+  },
+  {
+  ".mj2":"Motion JPEG 2000 Video"
+  },
+  {
+  ".mjp2":"Motion JPEG 2000 Video"
+  },
+  {
+  ".mjpeg":"Motion JPEG Video"
+  },
+  {
+  ".mjpg":"Motion JPEG Video"
+  },
+  {
+  ".ief":"Bitmap Image Exchange Image"
+  },
+  {
+  ".ktx":"Khronos Texture Image"
+  },
+  {
+  ".ktx2":"Khronos Texture 2.0 Image"
+  },
+  {
+  ".jpm":"JPEG 2000 Compound Image"
+  },
+  {
+  ".jpgm":"JPEG 2000 Compound Image"
+  },
+  {
+  ".nef":"Raw Nikon Camera Footage"
+  },
+  {
+  ".lwo":"LightWave 3D Object"
+  },
+  {
+  ".lwob":"LightWave 3D Object"
+  },
+  {
+  ".pntg":"MacPaint Bitmap Image"
+  },
+  {
+  ".sk":"sK1/Skencil Vector Image"
+  },
+  {
+  ".sk1":"sK1/Skencil Vector Image"
+  },
+  {
+  ".eml":"Email Message"
+  },
+  {
+  ".jse":"Encoded JScript Executable"
+  },
+  {
+  ".vcard":"vCard/VCF Data"
+  },
+  {
+  ".vcf":"vCard/VCF Data"
+  },
+  {
+  ".gcrd":"vCard/VCF Data"
+  },
+  {
+  ".ldif":"LDAP Data"
+  },
+  {
+  ".3ga":"3GP Audio"
+  },
+  {
+  ".axv":"Annodex Video"
+  },
+  {
+  ".bik":"Bink Game Video"
+  },
+  {
+  ".bk2":"Bink 2 Game Video"
   }
  ]
 }
