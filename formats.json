@@ -856,7 +856,7 @@
   ".arc":"ARC Compressed Archive"
   }, 
   {
-  ".appx":"Microsoft App Package"
+  ".appx":"Microsoft UWP App Package"
   }, 
   {
   ".ear":"Java Entreprise Archive"
@@ -1834,7 +1834,7 @@
   ".cat":"Microsoft Digitally-Signed Catalog"
   }, 
   {
-  ".kml":"KML Markup Document"
+  ".kml":"KML Geographic Data"
   }, 
   {
   ".php3":"PHP3 Script"
@@ -4195,7 +4195,225 @@
   ".bik":"Bink Game Video"
   },
   {
-  ".bk2":"Bink 2 Game Video"
+  ".bk2":"Bink 2 Game Video ^^^^---^^^^"
+  }, 
+  {
+  ".appinstaller":"Windows App Installer"
+  },
+  {
+  ".appxbundle":"Microsoft UWP App Bundle"
+  },
+  {
+  ".json-patch":"JSON Patch"
+  },
+  {
+  ".nb":"Wolfram Mathematica Notebook"
+  },
+  {
+  ".msix":"Windows Installer Package"
+  },
+  {
+  ".msixbundle":"Windows Installer Package Bundle"
+  },
+  {
+  ".ogx":"OGG Video/Audio"
+  },
+  {
+  ".skr":"PGP Private Key"
+  },
+  {
+  ".pkr":"PGP Public Key"
+  },
+  {
+  ".key":"Apple Keynote Presentation/PEM Private Key"
+  },
+  {
+  ".sig":"Generic Digital Signature"
+  },
+  {
+  ".csr":"PEM/PKCS #10 Certificate Signing Request"
+  },
+  {
+  ".crt":"PEM Certificate"
+  },
+  {
+  ".cert":"PEM Certificate"
+  },
+  {
+  ".rdf":"RDF Data"
+  },
+  {
+  ".rdfs":"RDF Data"
+  },
+  {
+  ".rnc":"RELAX NG XML/JSON Schema"
+  },
+  {
+  ".kino":"Smile Data"
+  },
+  {
+  ".spl":"Windows Printer Spool"
+  },
+  {
+  ".swf":"Adobe Flash Video"
+  },
+  {
+  ".pgn":"Generic Chess Notation Data"
+  },
+  {
+  ".ppd":"PostScript Printer Description"
+  },
+  {
+  ".raw-disk-image":"Generic Disk Image"
+  },
+  {
+  ".img":"Generic Disk Image"
+  },
+  {
+  ".iso9660":"Optical Disk Image"
+  },
+  {
+  ".xdgapp":"Legacy Flatpak Application Package"
+  },
+  {
+  ".fm":"Adobe FrameMaker Structured Text Document"
+  },
+  {
+  ".kmz":"Compressed KML Geographic Data"
+  },
+  {
+  ".123":"Lotus 1-2-3 Spreadsheet"
+  },
+  {
+  ".lwp":"Lotus Word Pro Structured Text Document"
+  },
+  {
+  ".wdb":"Microsoft Works Database"
+  },
+  {
+  ".wks":"Lotus 1-2-3 Spreadsheet"
+  },
+  {
+  ".wps":"Microsoft Works Structured Text Document"
+  },
+  {
+  ".xlr":"Microsoft Works Spreadsheet"
+  },
+  {
+  ".sfc":"SNES Rom Image"
+  },
+  {
+  ".smc":"SNES Rom Image"
+  },
+  {
+  ".sqsh":"Squashfs Filesystem Image"
+  },
+  {
+  ".sds":"StarChart Chart"
+  },
+  {
+  ".sda":"StarOffice Draw Vector Image"
+  },
+  {
+  ".sdd":"StarOffice Impress Presentation"
+  },
+  {
+  ".sdw":"StarOffice Writer Structured Text Document"
+  },
+  {
+  ".vor":"StarOffice Template"
+  },
+  {
+  ".sxc":"StarOffice Calc Spreadsheet"
+  },
+  {
+  ".stc":"StarOffice Calc Template"
+  },
+  {
+  ".sxd":"StarOffice Draw Vector Image"
+  },
+  {
+  ".std":"StarOffice Draw Template"
+  },
+  {
+  ".sxi":"StarOffice Impress Presentation"}
+  {
+  ".sti":"StarOffice Impress Presentation Template"
+  },
+  {
+  ".sxm":"StarOffice StarMath Mathematical Formula"
+  },
+  {
+  ".sxw":"StarOffice Writer Structured Text Document"
+  },
+  {
+  ".sxg":"StarOffice Writer Master Document"
+  },
+  {
+  ".stw":"StarOffice Writer Structured Text Template"
+  },
+  {
+  ".pcap":"Tcpdump Network Packet Capture"
+  },
+  {
+  ".zabw":"Compressed AbiWord Structured Text Document"
+  },
+  {
+  ".alz":"ALZip Compressed Archive"
+  },
+  {
+  ".adf":"Amiga Disk Image"
+  },
+  {
+  ".a26":"Atari 2600 Rom Image"
+  },
+  {
+  ".a78":"Atari 7800 Rom Image"
+  },
+  {
+  ".afm":"Adobe Font Metrics"
+  },
+  {
+  ".pfa":"PostScript Type 1 Font"
+  },
+  {
+  ".pfb":"PostScript Type 1 Font"
+  },
+  {
+  ".gbc":"Nintendo Game Boy Color Rom Image"
+  },
+  {
+  ".gb":"Nintendo Game Boy Rom Image"
+  },
+  {
+  ".gg":"Sega Game Gear Rom Image"
+  },
+  {
+  ".gba":"Nintendo Game Boy Advance Rom Image"
+  },
+  {
+  ".gdi":"Sega Dreamcast Disk Image"
+  },
+  {
+  ".32x":"Sega Genesis 32x Rom Image"
+  },
+  {
+  ".gnc":"GnuCash Financial Data" 
+  },
+  {
+  ".tres":"Godot Resource"
+  },
+  {
+  ".tscn":"Godot Scene"
+  },
+  {
+  ".escn":"Godot Scene"
+  },
+  {
+  ".gdshader":"Godot Shader"
+  },
+  {
+  ".ks":"Java KeyStore"
   }
  ]
 }
