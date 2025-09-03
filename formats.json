@@ -4042,8 +4042,8 @@
   ".oleo":"GNU Oleo Spreadsheet"
   },  
   {
-  ".n64":"Nintendo 64 Little Endian Rom Image?"
-  },  
+  ".n64":"Nintendo 64 Little Endian Rom Image"
+  },
   {
   ".z64":"Nintendo 64 Big Endian Rom Image"
   },  
@@ -4195,7 +4195,7 @@
   ".bik":"Bink Game Video"
   },
   {
-  ".bk2":"Bink 2 Game Video ^^^^---^^^^"
+  ".bk2":"Bink 2 Game Video"
   }, 
   {
   ".appinstaller":"Windows App Installer"
@@ -4336,7 +4336,8 @@
   ".std":"StarOffice Draw Template"
   },
   {
-  ".sxi":"StarOffice Impress Presentation"}
+  ".sxi":"StarOffice Impress Presentation"
+  },
   {
   ".sti":"StarOffice Impress Presentation Template"
   },
