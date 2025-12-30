@@ -4415,6 +4415,42 @@
   },
   {
   ".ks":"Java KeyStore"
+  },
+  {
+  ".uslm":"USLM XML Legislative Document"
+  },
+  {
+  ".usx":"USX XML Scripture Translation"
+  },
+  {
+  ".pmc":"PubMed Central Text/XML Scientific Document"
+  },
+  {
+  ".jats":"JATS XML Document"
+  },
+  {
+  ".osis":"OSIS XML Scripture Document"
+  },
+  {
+  ".thml":"ThML XML Scripture Document"
+  },
+  {
+  ".tei":"TEI XML Document"
+  },
+  {
+  ".usfm":"USFM XML Scripture Translation"
+  },
+  {
+  ".bib":"BibTex Bibliographical Data"
+  },
+  {
+  ".sav":"IBM SPSS Statistical Data"
+  },
+  {
+  ".sps":"IBM SPSS Syntax"
+  },
+  {
+  ".spv":"IBM SPSS Output"
   }
  ]
 }
