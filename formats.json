@@ -4451,6 +4451,51 @@
   },
   {
   ".spv":"IBM SPSS Output"
+  },
+  {
+  ".xdp":"XML PDF Form Data"
+  },
+  {
+  ".daa":"PowerISO Disk Image"
+  },
+  {
+  ".bwi":"BlindWrite Disk Image"
+  },
+  {
+  ".bws":"BlindWrite Disk Image"
+  },
+  {
+  ".b5t":"BlindWrite 5 Small Disk Image"
+  },
+  {
+  ".b5i":"BlindWrite 5 Disk Image"
+  },
+  {
+  ".b6t":"BlindWrite 6 Small Disk Image"
+  },
+  {
+  ".b6i":"BlindWrite 6 Disk Image"
+  },
+  {
+  ".bwt":"BlindWrite Small Disk Image"
+  },
+  {
+  ".ckd":"KeyCreator 3D CAD Design"
+  },
+  {
+  ".itn":"TomTom GPS Location Data"
+  },
+  {
+  ".jmsh":"JMESH 3D Object"
+  },
+  {
+  ".bmsh":"JMESH 3D Object"
+  },
+  {
+  ".jdt":"JData Data"
+  },
+  {
+  ".jdb":"JData Data"
   }
  ]
 }
