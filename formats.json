@@ -4496,6 +4496,75 @@
   },
   {
   ".jdb":"JData Data"
+  },
+  {
+  ".wrld":"Wander Save Data"
+  },
+  {
+  ".gfw":"GIF Georeference Map"
+  },
+  {
+  ".jgw":"JPEG Georeference Map"
+  },
+  {
+  ".j2w":"JPEG Georeference Map"
+  },
+  {
+  ".pgw":"PNG Georeference Map"
+  },
+  {
+  ".tfw":"TIFF Georeference Map"
+  },
+  {
+  ".gifw":"GIF Georeference Map"
+  },
+  {
+  ".jpgw":"JPEG Georeference Map"
+  },
+  {
+  ".jp2w":"JPEG Georeference Map"
+  },
+  {
+  ".pngw":"PNG Georeference Map"
+  },
+  {
+  ".tifw":"TIFF Georeference Map"
+  },
+  {
+  ".zil":"ZIL Game Data"
+  },
+  {
+  ".cas":"Autodesk Cascade License"
+  },
+  {
+  ".asl":"Adobe Photoshop Style Pre-set"
+  },
+  {
+  ".t":"Turing Source Code"
+  },
+  {
+  ".taf":"ADRIFT Project"
+  },
+  {
+  ".blorb":"Blorb Game Asset"
+  },
+  {
+  ".blb":"Blorb Game Asset"
+  },
+  {
+  ".gblorb":"Glulx Blorb Game Asset"
+  },
+  {
+  ".zblorb":"Z-machine Blorb Game Asset"
+  },
+  {
+  ".zlb":"Form Z Plugin"
+  },
+  {
+  ".quest":"Quest 5 Game"
+  },
+  {
+  ".quest-save":"Quest 5 Game"
   }
  ]
 }
