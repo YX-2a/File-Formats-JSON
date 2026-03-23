@@ -2242,7 +2242,7 @@
   ".hdf5":"HDF 5 Data"
   }, 
   {
-  ".rss":"Web Feed"
+  ".rss":"RSS Feed"
   }, 
   {
   ".jsontd":"JSON Thing Description"
@@ -4565,6 +4565,78 @@
   },
   {
   ".quest-save":"Quest 5 Game"
+  },
+  {
+  ".crx3":"Chrome Browser Extention"
+  },
+  {
+  ".crx2":"Chrome Browser Extention"
+  },
+  {
+  ".bpl":"Borland Package Library"
+  },
+  {
+  ".rcc":"Qt Resource Collection"
+  },
+  {
+  ".qrc":"Qt Resource Collection"
+  },
+  {
+  ".thmx":"MS Office Document Theme"
+  },
+  {
+  ".snp":"Legacy MS Access Snapshot Report"
+  },
+  {
+  ".sqm":"MS Service Quality Monitoring Log"
+  },
+  {
+  ".nexe":"Google Native Client Executable"
+  },
+  {
+  ".pak":"Game Asset"
+  },
+  {
+  ".cache-7":"Binary Cache"
+  },
+  {
+  ".fingerprint":"Chromium Cache"
+  },
+  {
+  ".tflite":"TensorFlow Lite Model"
+  },
+  {
+  ".md5":"MD5 Hash Checksum"
+  },
+  {
+  ".bdic":"Chrome Browser Dictionary"
+  },
+  {
+  ".db-shm":"SQLite Temporary Shared-Memory"
+  },
+  {
+  ".db-wal":"SQLite Write-Ahead Log"
+  },
+  {
+  ".feed-ms":"Microsoft RSS Feed"
+  },
+  {
+  ".officeUI":"MS Office UI Configuration"
+  },
+  {
+  ".customUI":"Custom MS Office UI Configuration"
+  },
+  {
+  ".xcu":"OpenOffice.org/LibreOffice XML Configuration"
+  },
+  {
+  ".logits":"Pre-Softmax Neural Network Output"
+  },
+  {
+  ".ckpt":"Neural Network Checkpoint"
+  },
+  {
+  ".onnx":"ONNX Neural Network"
   }
  ]
 }
