@@ -67,16 +67,13 @@
    ".3gp": "3GP Video/Audio"
   },
   {
-   ".3gpp": "3GP Video/Audio"
+   ".3gpp": "3GP2/3GP Video/Audio"
   },
   {
    ".3g2": "3G2 Video/Audio"
   },
   {
    ".3gp2": "3G2 Video/Audio"
-  },
-  {
-   ".3gpp": "3GP2 Video/Audio"
   },
   {
    ".avi": "AVI Video"
@@ -427,7 +424,7 @@
   ".rpm":"SUSE/RedHat Application Package"
   },
   {
-  ".ipa":"IOS Application Package"
+  ".ipa":"iOS Application Package"
   },
   {
   ".flatpak":"Flatpak Application Package"
@@ -442,7 +439,7 @@
   ".msp":"Windows Patch Installer Package"
   },
   {
-  ".snap":"Snap Application Package "
+  ".snap":"Snap Application Package"
   },
   {
   ".appimage":"AppImage Portable Application"
@@ -469,7 +466,7 @@
   ".lrcat":"Adobe Lightroom Catalog"
   },
   {
-  ".prproj":"Adobe Premier Pro Project"
+  ".prproj":"Adobe Premiere Pro Project"
   },
   {
   ".aep":"Adobe After Effects Project"
@@ -538,7 +535,7 @@
   ".ani":"Windows Animated Cursor"
   },
   {
-  ".webm":"Webm Video/Audio"
+  ".webm":"WebM Video/Audio"
   },
   {
   ".a68":"ALGOL 68 Source Code"
@@ -685,9 +682,6 @@
   ".rmvb":"RealPlayer Video"
   },
   {
-  ".mxf":"MXF Video"
-  },
-  {
   ".nsv":"Nullsoft Online Video"
   },
   {
@@ -697,7 +691,7 @@
   ".crw":"CIFF Camera Image"
   },
   {
-  ".dng":"DNG Camera Image "
+  ".dng":"DNG Camera Image"
   },
   {
   ".mdc":"Raw Minolta RD-175 Camera Footage"
@@ -767,10 +761,7 @@
   }, 
   {
   ".m2t":"MPEG Transport Stream Video"
-  }, 
-  {
-  ".mxf":"MXF Video/Audio"
-  }, 
+  },
   {
   ".caf":"Apple CAF Audio"
   }, 
@@ -859,7 +850,7 @@
   ".appx":"Microsoft UWP App Package"
   }, 
   {
-  ".ear":"Java Entreprise Archive"
+  ".ear":"Java Enterprise Archive"
   }, 
   {
   ".ts":"Typescript Script"
@@ -928,7 +919,7 @@
   ".atom":"ATOM Markup Document"
   }, 
   {
-  ".plist":"Apple Proprety List"
+  ".plist":"Apple Property List"
   }, 
   {
   ".clj":"Clojure Lisp Script"
@@ -1069,7 +1060,7 @@
   ".rkt":"Racket Lisp Script"
   },  
   {
-  ".l":"PicoLisp Lisp Script"
+  ".l":"PicoLisp Lisp Script/Lex Source Code"
   }, 
   {
   ".lfe":"LFE Lisp Script"
@@ -1202,10 +1193,7 @@
   }, 
   {
   ".model":"CATIA V4 Model"
-  }, 
-  {
-  ".ipt":"Autodesk Inventor Part"
-  }, 
+  },
   {
   ".sat":"ACIS 3D Object"
   }, 
@@ -1291,16 +1279,16 @@
   ".adl":"SQL Database Link"
   }, 
   {
-  ".crdownload":"Chrome Partial Downlad"
+  ".crdownload":"Chrome Partial Download"
   }, 
   {
-  ".download":"Safari Partial Downlad"
+  ".download":"Safari Partial Download"
   }, 
   {
-  ".part":"Firefox Partial Downlad"
+  ".part":"Firefox Partial Download"
   }, 
   {
-  ".opdownload":"Opera Partial Downlad"
+  ".opdownload":"Opera Partial Download"
   }, 
   {
   ".cjs":"CommonJS Module"
@@ -1345,10 +1333,10 @@
   ".!ut":"qBittorrent Incomplete Downlad"
   }, 
   {
-  ".!qB":"µTorent Incomplete Downlad"
+  ".!qB":"µTorrent Incomplete Downlad"
   }, 
   {
-  ".au3":"Autolt v3 Script"
+  ".au3":"AutoIt v3 Script"
   }, 
   {
   ".cmake":"CMake Script"
@@ -1483,7 +1471,7 @@
   ".otf":"OpenType Font"
   },
   {
-  ".crx":"Chrome Browser Extention"
+  ".crx":"Chrome Browser Extension"
   }, 
   {
   ".nes":"NES ROM Image"
@@ -1517,10 +1505,7 @@
   }, 
   {
   ".cgm":"CGM Image"
-  }, 
-  {
-  ".sgi":"SGI Image"
-  }, 
+  },
   {
   ".bpnueb":"PNU eBook"
   }, 
@@ -1588,7 +1573,7 @@
   ".jxsv":"JPEG XS Video"
   }, 
   {
-  ".ptx":"Raw Pentax Camera Footage"
+  ".ptx":"Raw Pentax Camera Footage/Ptex Image/Avid Pro Tools Session"
   }, 
   {
   ".x3f":"Raw Sigma Camera Footage"
@@ -1874,10 +1859,7 @@
   }, 
   {
   ".cda":"CD Audio"
-  }, 
-  {
-  ".l":"Lex Source Code"
-  }, 
+  },
   {
   ".ybk":"YanCEyWare eBook"
   },
@@ -1954,7 +1936,7 @@
   ".cddx":"Circuit Diagram Document"
   }, 
   {
-  ".fdix":"Field Device Integration information"
+  ".fdix":"Field Device Integration Information"
   }, 
   {
   ".pbir":"Microsoft Power BI Report"
@@ -2266,7 +2248,7 @@
   ".clb":"Microsoft COM+ Catalog"
   }, 
   {
-  ".clf":"ACES 1D/3D Look-Up Table "
+  ".clf":"ACES 1D/3D Look-Up Table"
   }, 
   {
   ".ocio":"OpenColorIO Configuration"
@@ -2380,17 +2362,14 @@
   ".metal":"Apple Metal Shader"
   }, 
   {
-  ".sgi":"Colored Silicon Graphics Image"
+  ".sgi":"Silicon Graphics Colored Image"
   }, 
   {
-  ".int":"B&W Silicon Graphics Image"
+  ".int":"Silicon Graphics B&W Image"
   }, 
   {
   ".rla":"Wavefront RLA Image"
-  }, 
-  {
-  ".ptx":"Ptex Image"
-  }, 
+  },
   {
   ".sl":"RenderMan Shader Source"
   }, 
@@ -2419,7 +2398,7 @@
   ".vda":"Targa Raster Image"
   }, 
   {
-  ".bufr":"BUFR Meterological Data"
+  ".bufr":"BUFR Meteorological Data"
   }, 
   {
   ".dcx":"DCX Image"
@@ -2428,7 +2407,7 @@
   ".h5":"HDF 5 Data"
   }, 
   {
-  ".grib":"GRIB Meterological Data"
+  ".grib":"GRIB Meteorological Data"
   }, 
   {
   ".j2k":"JPEG 2000 Codestream Data"
@@ -2459,9 +2438,6 @@
   },
   {
   ".rmd":"REDCINE-X PRO Metadata"
-  },
-  {
-  ".cub":"TrueLight 3D Look-Up Table"
   },
   {
   ".gmo":"GNU Machine Object"
@@ -2713,10 +2689,10 @@
   ".p7b":"PKCS #7 Certificate Bundle"
   }, 
   {
-  ".p12":"PKCS #12 Crytographic Data"
+  ".p12":"PKCS #12 Cryptographic Data"
   }, 
   {
-  ".pfx":"PKCS #12 Crytographic Data"
+  ".pfx":"PKCS #12 Cryptographic Data"
   }, 
   {
   ".sml":"Smile Data"
@@ -2917,7 +2893,7 @@
   ".nwc":"Navisworks Cache"
   },
   {
-  ".nwf":"Navisworks Refrence"
+  ".nwf":"Navisworks Reference"
   },
   {
   ".sia":"Silo 3D Object (Text)"
@@ -2954,9 +2930,6 @@
   },
   {
   ".ifcjson":"IFC JSON 3D Object"
-  },
-  {
-  ".off":"OFF 3D Object"
   },
   {
   ".csg":"OpenSCAD CSG 3D Object"
@@ -3055,10 +3028,10 @@
   ".edgeql":"EdgeQL Query"
   },
   {
-  ".off":"OptimFrog Lossy Audio"
+  ".off":"OptimFrog Lossy Audio/OFF 3D Object"
   },
   {
-  ".ofr":"OptimFROG Loseless Audio"
+  ".ofr":"OptimFROG Lossless Audio"
   },
   {
   ".ofs":"OptimFROG DualStream Audio"
@@ -3070,13 +3043,13 @@
   ".shn":"Shorten Audio"
   },
   {
-  ".tta":"True Audio Loseless Audio"
+  ".tta":"True Audio Lossless Audio"
   },
   {
   ".ly":"GNU LilyPond Musical Notation"
   },
   {
-  ".musicxml":"True Audio Loseless Audio"
+  ".musicxml":"True Audio Lossless Audio"
   },
   {
   ".chopro":"ChordPro Chord Chart"
@@ -3649,7 +3622,7 @@
   ".trig":"TriG RDF Data"
   },
   {
-  ".thrift":"Apache Thrift "
+  ".thrift":"Apache Thrift"
   },
   {
   ".tea":"Tea Web Template"
@@ -3796,7 +3769,7 @@
   ".hlsli":"HLSL Include Directives"
   },
   {
-  "hcl":"HashiCorp Configuration"
+  ".hcl":"HashiCorp Configuration"
   },
   {
   ".tf":"Terraform Configuration"
@@ -4567,10 +4540,10 @@
   ".quest-save":"Quest 5 Game"
   },
   {
-  ".crx3":"Chrome Browser Extention"
+  ".crx3":"Chrome Browser Extension"
   },
   {
-  ".crx2":"Chrome Browser Extention"
+  ".crx2":"Chrome Browser Extension"
   },
   {
   ".bpl":"Borland Package Library"
