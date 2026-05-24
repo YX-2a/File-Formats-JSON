@@ -1,295 +1,295 @@
 {
  "List": [
   {
-   ".png": "PNG Image"
+   ".png":"PNG Image"
   },
   {
-   ".avif": "AV1 Image"
+   ".avif":"AV1 Image"
   },
   {
-   ".avifs": "AV1 Image"
+   ".avifs":"AV1 Image"
   },
   {
-   ".bmp": "Windows Bitmap Image"
+   ".bmp":"Windows Bitmap Image"
   },
   {
-   ".pdf": "PDF Document"
+   ".pdf":"PDF Document"
   },
   {
-   ".jfif": "JPEG Image"
+   ".jfif":"JPEG Image"
   },
   {
-   ".jpeg": "JPEG Image"
+   ".jpeg":"JPEG Image"
   },
   {
-   ".jpg": "JPEG Image"
+   ".jpg":"JPEG Image"
   },
   {
-   ".txt": "Text Document"
+   ".txt":"Text Document"
   },
   {
-   ".gif": "GIF Image"
+   ".gif":"GIF Image"
   },
   {
-   ".mp4": "MPEG Layer 4 Video/Audio"
+   ".mp4":"MPEG Layer 4 Video/Audio"
   },
   {
-   ".m4a": "MPEG Layer 4 Audio"
+   ".m4a":"MPEG Layer 4 Audio"
   },
   {
-   ".m4r": "MPEG Layer 4 Audio"
+   ".m4r":"MPEG Layer 4 Audio"
   },
   {
-   ".m4b": "MPEG Layer 4 Audio"
+   ".m4b":"MPEG Layer 4 Audio"
   },
   {
-   ".m4p": "MPEG Layer 4 Audio"
+   ".m4p":"MPEG Layer 4 Audio"
   },
   {
-   ".m4v": "MPEG Layer 4 Video"
+   ".m4v":"MPEG Layer 4 Video"
   },
   {
-   ".mp3": "MPEG Layer 3 Audio"
+   ".mp3":"MPEG Layer 3 Audio"
   },
   {
-   ".ogg": "OGG Vorbis Audio"
+   ".ogg":"OGG Vorbis Audio"
   },
   {
-   ".ogv": "OGG Theora Video"
+   ".ogv":"OGG Theora Video"
   },
   {
-   ".wave": "Windows WaveForm Audio"
+   ".wave":"Windows WaveForm Audio"
   },
   {
-   ".wav": "Windows WaveForm Audio"
+   ".wav":"Windows WaveForm Audio"
   },
   {
-   ".3gp": "3GP Video/Audio"
+   ".3gp":"3GP Video/Audio"
   },
   {
-   ".3gpp": "3GP2/3GP Video/Audio"
+   ".3gpp":"3GP2/3GP Video/Audio"
   },
   {
-   ".3g2": "3G2 Video/Audio"
+   ".3g2":"3G2 Video/Audio"
   },
   {
-   ".3gp2": "3G2 Video/Audio"
+   ".3gp2":"3G2 Video/Audio"
   },
   {
-   ".avi": "AVI Video"
+   ".avi":"AVI Video"
   },
   {
-   ".aif": "Apple AIFF Audio"
+   ".aif":"Apple AIFF Audio"
   },
   {
-   ".aiff": "Apple AIFF Audio"
+   ".aiff":"Apple AIFF Audio"
   },
   {
-   ".aifc": "Apple AIFF Audio"
+   ".aifc":"Apple AIFF Audio"
   },
   {
-   ".heic": "HEIC Image/Video"
+   ".heic":"HEIC Image/Video"
   },
   {
-   ".heif": "HEIF Image"
+   ".heif":"HEIF Image"
   },
   {
-   ".hif": "HEIF Image"
+   ".hif":"HEIF Image"
   },
   {
-   ".wma": "Windows Audio"
+   ".wma":"Windows Audio"
   },
   {
-   ".wmv": "Windows Video"
+   ".wmv":"Windows Video"
   },
   {
-   ".asf": "ASF Video/Audio"
+   ".asf":"ASF Video/Audio"
   },
   {
-   ".py": "Python Script"
+   ".py":"Python Script"
   },
   {
-   ".pyw": "Python Script"
+   ".pyw":"Python Script"
   },
   {
-   ".exe": "Windows Executable Program"
+   ".exe":"Windows Executable Program"
   },
   {
-   ".mkv": "Matroska Video"
+   ".mkv":"Matroska Video"
   },
   {
-   ".mov": "QuickTime Video"
+   ".mov":"QuickTime Video"
   },
   {
-   ".md": "MarkDown Document"
+   ".md":"MarkDown Document"
   },
   {
-   ".xml": "XML Markup Document"
+   ".xml":"XML Markup Document"
   },
   {
-   ".html": "Html Web Document"
+   ".html":"Html Web Document"
   },
   {
-   ".htm": "Html Web Document"
+   ".htm":"Html Web Document"
   },
   {
-   ".css": "CSS Style Sheet"
+   ".css":"CSS Style Sheet"
   },
   {
-   ".js": "JavaScript Script"
+   ".js":"JavaScript Script"
   },
   {
-   ".json": "JSON Data"
+   ".json":"JSON Data"
   },
   {
-   ".csv": "CSV Data"
+   ".csv":"CSV Data"
   },
   {
-   ".doc": "Legacy MS Word Structured Text Document"
+   ".doc":"Legacy MS Word Structured Text Document"
   },
   {
-   ".docx": "MS Word Structured Text Document"
+   ".docx":"MS Word Structured Text Document"
   },
   {
-   ".xls": "Legacy MS Excel SpreadSheet"
+   ".xls":"Legacy MS Excel Spreadsheet"
   },
   {
-   ".xlsx": "MS Excel SpreadSheet"
+   ".xlsx":"MS Excel Spreadsheet"
   },
   {
-   ".ppt": "Legacy MS PowerPoint Presentation"
+   ".ppt":"Legacy MS PowerPoint Presentation"
   },
   {
-   ".pps": "Legacy MS PowerPoint SlideShow"
+   ".pps":"Legacy MS PowerPoint Slide Show"
   },
   {
-   ".pptx": "MS PowerPoint Presentation"
+   ".pptx":"MS PowerPoint Presentation"
   },
   {
-   ".ppsx": "MS PowerPoint SlideShow"
+   ".ppsx":"MS PowerPoint Slide Show"
   },
   {
-   ".odt": "OpenDocument Structured Text Document"
+   ".odt":"OpenDocument Structured Text Document"
   },
   {
-   ".fodt": "OpenDocument Flat XML Structured Text Document"
+   ".fodt":"OpenDocument Flat XML Structured Text Document"
   },
   {
-   ".ods": "OpenDocument SpreadSheet"
+   ".ods":"OpenDocument Spreadsheet"
   },
   {
-   ".fods": "OpenDocument Flat XML SpreadSheet"
+   ".fods":"OpenDocument Flat XML Spreadsheet"
   },
   {
-   ".odp": "OpenDocument Presentation"
+   ".odp":"OpenDocument Presentation"
   },
   {
-   ".fodp": "OpenDocument Flat XML Presentation"
+   ".fodp":"OpenDocument Flat XML Presentation"
   },
   {
-   ".odg": "OpenDocument Graphical Document"
+   ".odg":"OpenDocument Graphical Document"
   },
   {
-   ".fodg": "OpenDocument Flat XML Graphical Document"
+   ".fodg":"OpenDocument Flat XML Graphical Document"
   },
   {
-   ".odf": "OpenDocument Math Formula Document"
+   ".odf":"OpenDocument Math Formula Document"
   },
   {
-   ".wpd" : "WordPerfect Structured Text Document"
+   ".wpd":"WordPerfect Structured Text Document"
   },
   {
-   ".rtf" : "Rich Text Document"
+   ".rtf":"Rich Text Document"
   },
   {
-   ".xcf": "GIMP Project"
+   ".xcf":"GIMP Project"
   },
   {
-   ".kra": "Krita Project"
+   ".kra":"Krita Project"
   },
   {
-   ".psd": "Adobe Photoshop Project"
+   ".psd":"Adobe Photoshop Project"
   },
   {
-   ".icns": "Apple Icon Image"
+   ".icns":"Apple Icon Image"
   },
   {
-   ".ico": "Windows Icon Image"
+   ".ico":"Windows Icon Image"
   },
   {
-   ".java": "Java Source Code"
+   ".java":"Java Source Code"
   },
   {
-   ".jar": "Java Executable Archive"
+   ".jar":"Java Executable Archive"
   },
   {
-   ".c": "C/C++ Source Code"
+   ".c":"C/C++ Source Code"
   },
   {
-   ".cpp": "C++ Source Code"
+   ".cpp":"C++ Source Code"
   },
   {
-   ".cs": "C# Source Code"
+   ".cs":"C# Source Code"
   },
   {
-   ".ora": "OpenRaster Image"
+   ".ora":"OpenRaster Image"
   },
   {
-   ".cur": "Windows Cursor Image"
+   ".cur":"Windows Cursor Image"
   },
   {
-   ".tif": "TIFF Image"
+   ".tif":"TIFF Image"
   },
   {
-   ".tiff": "TIFF Image"
+   ".tiff":"TIFF Image"
   },
   {
-   ".jxl": "JPEG XL Image"
+   ".jxl":"JPEG XL Image"
   },
   {
-   ".eps": "Adobe Encapsulated PostScript Vector Image"
+   ".eps":"Adobe Encapsulated PostScript Vector Image"
   },
   {
-   ".epsf": "Adobe Encapsulated PostScript Vector Image"
+   ".epsf":"Adobe Encapsulated PostScript Vector Image"
   },
   {
-   ".epsi": "Adobe Encapsulated PostScript Vector Image"
+   ".epsi":"Adobe Encapsulated PostScript Vector Image"
   },
   {
-   ".ps": "Adobe PostScript Document"
+   ".ps":"Adobe PostScript Document"
   },
   {
-   ".cdr": "CorelDraw Vector Image"
+   ".cdr":"CorelDraw Vector Image"
   },
   {
-   ".svg": "Standard Vector Image"
+   ".svg":"Standard Vector Image"
   },
   {
-   ".ppm": "Netpbm Portable Pixmap Image"
+   ".ppm":"Netpbm Portable Pixmap Image"
   },
   {
-   ".pgm": "Netpbm Portable Graymap Image"
+   ".pgm":"Netpbm Portable Graymap Image"
   },
   {
-   ".pbm": "Netpbm Portable Bitmap Image"
+   ".pbm":"Netpbm Portable Bitmap Image"
   },
   {
-   ".pnm": "Netpbm Portable Anymap Image"
+   ".pnm":"Netpbm Portable Anymap Image"
   },
   {
-   ".wepb": "WEBP Image"
+   ".wepb":"WEBP Image"
   },
   {
-   ".bat": "Windows Batch Script"
+   ".bat":"Windows Batch Script"
   },
   {
-   ".rar": "WinRAR Compressed Archive"
+   ".rar":"WinRAR Compressed Archive"
   },
   {
-   ".zip": "Zip Compressed Archive"
+   ".zip":"Zip Compressed Archive"
   },
   {
-   ".7z": "7Zip Compressed Archive"
+   ".7z":"7Zip Compressed Archive"
   },
   {
   ".blend":"Blender Project"
@@ -1330,10 +1330,10 @@
   ".torrent":"Bittorrent Data"
   }, 
   {
-  ".!ut":"qBittorrent Incomplete Downlad"
+  ".!ut":"qBittorrent Incomplete Download"
   }, 
   {
-  ".!qB":"µTorrent Incomplete Downlad"
+  ".!qB":"µTorrent Incomplete Download"
   }, 
   {
   ".au3":"AutoIt v3 Script"
@@ -1804,13 +1804,13 @@
   ".xsd":"XML Schema"
   }, 
   {
-  ".db":"Database"
+  ".db":"Generic Database"
   }, 
   {
   ".pub":"MS Publisher Document"
   }, 
   {
-  ".rgs":"InstallSheild Script for Windows Registry"
+  ".rgs":"InstallSheild Script"
   }, 
   {
   ".tlb":"Microsoft Type Library"
@@ -1912,7 +1912,7 @@
   ".potx":"MS PowerPoint Template"
   }, 
   {
-  ".sldx":"MS PowerPoint SlideShow"
+  ".sldx":"MS PowerPoint Slide Show"
   }, 
   {
   ".aaccdt":"MS Access Template"
@@ -1951,7 +1951,7 @@
   ".adts":"ADTS Audio"
   }, 
   {
-  ".xlsm":"MS Excel Macro-enabled SpreadSheet"
+  ".xlsm":"MS Excel Macro-enabled Spreadsheet"
   }, 
   {
   ".pptm":"MS PowerPoint Macro-enabled Presentation"
@@ -1984,7 +1984,7 @@
   ".dbf":"dBase Database"
   }, 
   {
-  ".uos":"Unified Office SpreadSheet"
+  ".uos":"Unified Office Spreadsheet"
   }, 
   {
   ".uop":"Unified Office Presentation"
@@ -2071,13 +2071,13 @@
   ".vst":"MS Visio Template"
   }, 
   {
-  ".vdw":"MS Visio Web Drawing"
+  ".vdw":"MS Visio Web Diagram"
   }, 
   {
-  ".vsdx":"MS Visio Drawing"
+  ".vsdx":"MS Visio Diagram"
   }, 
   {
-  ".vssm":"MS Visio Macro-enabled Drawing"
+  ".vssm":"MS Visio Macro-enabled Diagram"
   }, 
   {
   ".vstx":"MS Visio Template"
@@ -2518,7 +2518,7 @@
   ".mmp":"Measure Map Pro GIS Data"
   },
   {
-  ".dif":"DIF SpreadSheet"
+  ".dif":"DIF Spreadsheet"
   }, 
   {
   ".ogex":"OpenGEX 3D Scene"
@@ -2653,7 +2653,7 @@
   ".trig":"TriG RDF Graph Document"
   },
   {
-  ".numbers":"Apple Numbers SpreadSheet"
+  ".numbers":"Apple Numbers Spreadsheet"
   },
   {
   ".pages":"Apple Pages Structured Text Document"
@@ -2962,7 +2962,7 @@
   ".ipt":"AutoDesk Inventor Part"
   }, 
   {
-  ".dxf":"DXF CAD Drawing"
+  ".dxf":"DXF CAD Design"
   }, 
   {
   ".dwf":"DWF Design Data"
@@ -3010,7 +3010,7 @@
   ".dp":"DP Data"
   },
   {
-  ".gram": "PEG/ABNF Grammar"
+  ".gram":"PEG/ABNF Grammar"
   },
   {
   ".asdl":"ASDL Data"
@@ -3589,7 +3589,7 @@
   ".vhw":"VHDL Waveform"
   },
   {
-  "uno.":"Uno Source Code"
+  ".uno":"Uno Source Code"
   },
   {
   ".anim":"Unity 3D Animation"
@@ -3868,7 +3868,7 @@
   ".njs":"Node.js Script"
   },
   {
-  ".sjs":"SpreadJS SpreadSheet"
+  ".sjs":"SpreadJS Spreadsheet"
   },
   {
   ".xsjs":"SAP HANA XS JavaScript Script"
@@ -4610,6 +4610,87 @@
   },
   {
   ".onnx":"ONNX Neural Network"
+  },
+  {
+  ".aup3":"Audacity 3 Project"
+  },
+  {
+  ".aup4":"Audacity 4 Project"
+  },
+  {
+  ".aup":"Audacity 1/2 Project"
+  },
+  {
+  ".ipch":"IntelliSense Precompiled Header"
+  },
+  {
+  ".mun":"Windows Update Resource"
+  },
+  {
+  ".lkg":"HP-UX Configuration"
+  },
+  {
+  ".mfi":"HDClone Disk Image"
+  },
+  {
+  ".ort":"ONNX Runtime Model"
+  },
+  {
+  ".ypp":"Yacc/Bison Parser Source"
+  },
+  {
+  ".kiota":"Kiota API Client Generation Configuration"
+  },
+  {
+  ".vc":"Visual C++ Project Resource"
+  },
+  {
+  ".xex":"Xbox 360 Executable"
+  },
+  {
+  ".pdb":"Microsoft Program Database/PDB Protein Data"
+  },
+  {
+  ".winmd":"WinRT Metadata"
+  },
+  {
+  ".pbk":"MS Dial-Up Phone Book"
+  },
+  {
+  ".cdmp":"WCS Device Model Profile"
+  },
+  {
+  ".tri":"Generic 3D Object"
+  },
+  {
+  ".cdd":"Legacy ConceptDraw DIAGRAM Diagram"
+  },
+  {
+  ".cds":"Legacy ConceptDraw DIAGRAM Slide Show"
+  },
+  {
+  ".cdmm":"Legacy ConceptDraw MINDMAP Document"
+  },
+  {
+  ".cdmt":"Legacy ConceptDraw MINDMAP Template"
+  },
+  {
+  ".cddz":"ConceptDraw DIAGRAM Diagram"
+  },
+  {
+  ".cdsz":"ConceptDraw DIAGRAM Slide Show"
+  },
+  {
+  ".cdmz":"ConceptDraw ConceptDraw MINDMAP Document"
+  },
+  {
+  ".cdmtz":"ConceptDraw ConceptDraw MINDMAP Template"
+  },
+  {
+  ".cdpz":"ConceptDraw PROJECT Project"
+  },
+  {
+  ".cdtz":"ConceptDraw Template"
   }
  ]
 }
