@@ -328,40 +328,40 @@
   ".tar":"Tar Archive"
   },
   {
-  ".taz":"Tar Archived, Gzip Compressed"
+  ".taz":"Tar Archive, Gzip Compressed"
   },
   {
-  ".tgz":"Tar Archived, Gzip Compressed"
+  ".tgz":"Tar Archive, Gzip Compressed"
   },
   {
-  ".tbz":"Tar Archived, Bzip Compressed"
+  ".tbz":"Tar Archive, Bzip Compressed"
   },
   {
-  ".tbz2":"Tar Archived, Bzip2 Compressed"
+  ".tbz2":"Tar Archive, Bzip2 Compressed"
   },
   {
-  ".tlz":"Tar Archived, LZMA Compressed"
+  ".tlz":"Tar Archive, LZMA Compressed"
   },
   {
-  ".txz":"Tar Archived, XZ Compressed"
+  ".txz":"Tar Archive, XZ Compressed"
   },
   {
-  ".tb2":"Tar Archived, Bzip2 Compressed"
+  ".tb2":"Tar Archive, Bzip2 Compressed"
   },
   {
-  ".tz2":"Tar Archived, Bzip2 Compressed"
+  ".tz2":"Tar Archive, Bzip2 Compressed"
   },
   {
   ".lzma":"LZMA Compressed Archive"
   },
   {
-  ".tZ":"Tar Archived, Compress Compressed"
+  ".tZ":"Tar Archive, Compress Compressed"
   },
   {
-  ".taZ":"Tar Archived, Compress Compressed"
+  ".taZ":"Tar Archive, Compress Compressed"
   },
   {
-  ".tzst":"Tar Archived, Zstandard Compressed"
+  ".tzst":"Tar Archive, Zstandard Compressed"
   },
   {
   ".zst":"Zstandard Compressed Archive"
@@ -622,7 +622,7 @@
   ".asm":"Assembly Source Code"
   },
   {
-  ".flv":"Adobe Flash Video"
+  ".flv":"Adobe Flash SWF Video"
   },
   {
   ".vob":"DVD Video"
@@ -739,7 +739,7 @@
   ".divx":"DivX Video"
   }, 
   {
-  ".dv":"Digital Video 720x576 Video"
+  ".dv":"Raw Digital Video 720x576 Video"
   }, 
   {
   ".bpg":"BPG Image"
@@ -2476,7 +2476,7 @@
   ".vtt":"WebVTT Subtitles"
   }, 
   {
-  ".smi":"Microsoft SAMI Subtitles"
+  ".smi":"Microsoft SAMI Video Subtitles"
   }, 
   {
   ".sami":"Microsoft SAMI Subtitles"
@@ -2518,7 +2518,7 @@
   ".mmp":"Measure Map Pro GIS Data"
   },
   {
-  ".dif":"DIF Spreadsheet"
+  ".dif":"Raw Digital Video 720x576 Video/DIF Spreadsheet"
   }, 
   {
   ".ogex":"OpenGEX 3D Scene"
@@ -2611,7 +2611,7 @@
   ".xesc":"XESC Video"
   },
   {
-  ".srt":"SubRip Subtitles"
+  ".srt":"SubRip Video Subtitles"
   }, 
   {
   ".anx":"Annodex Video"
@@ -3994,7 +3994,7 @@
   ".ustar":"POSIX Tar Archive"
   },  
   {
-  ".tzo":"Tar Archived, LZO Compressed"
+  ".tzo":"Tar Archive, LZO Compressed"
   },  
   {
   ".spkac":"SPKAC Certificate Request"
@@ -4030,7 +4030,7 @@
   ".lyx":"LyX Structured Text Document"
   },  
   {
-  ".tlrz":"Tar Archived, Lrzip Compressed"
+  ".tlrz":"Tar Archive, Lrzip Compressed"
   },  
   {
   ".lhz":"LHA Compressed Archive"
@@ -4228,7 +4228,7 @@
   ".spl":"Windows Printer Spool"
   },
   {
-  ".swf":"Adobe Flash Video"
+  ".swf":"Adobe Flash SWF Video"
   },
   {
   ".pgn":"Generic Chess Notation Data"
@@ -4694,6 +4694,84 @@
   },
   {
   ".funscript":"FunScript Interactive Video"
+  },
+  {
+  ".mw":"Maple Worksheet XML Data"
+  },
+  {
+  ".s7z":"7z Compressed Archive"
+  },
+  {
+  ".f4v":"Adobe Flash MP4 Video"
+  },
+  {
+  ".f4a":"Adobe Flash MP4 DRM-Protected Audio"
+  },
+  {
+  ".f4b":"Adobe Flash MP4 Audio eBook"
+  },
+  {
+  ".f4p":"Adobe Flash MP4 DRM-Protected Video/Audio"
+  },
+  {
+  ".duc":"Action Replay Max DS Save Data"
+  },
+  {
+  ".kva":"Kinovea Video Annotations"
+  },
+  {
+  ".toc":"LaTeX Table of Contents"
+  },
+  {
+  ".tao":"TAO Disk Image"
+  },
+  {
+  ".cpt":"Corel Photo-Paint Project"
+  },
+  {
+  ".ica":"Citrix Configuration"
+  },
+  {
+  ".plg":"Visual Studio Project Build Log"
+  },
+  {
+  ".mtpf":"Moony-SpriteBatch Texture Image"
+  },
+  {
+  ".sfark":"sfArk Compressed Audio Archive"
+  },
+  {
+  ".rz":"Rzip Compressed Archive"
+  },
+  {
+  ".sea":" StuffIt Self-Extracting Archive"
+  },
+  {
+  ".hki":"WinHKI Compressed Archive"
+  },
+  {
+  ".pea":"PeaZip Compressed Archive"
+  },
+  {
+  ".cpgz":"CPIO Archive, Gzip Compressed"
+  },
+  {
+  ".genozip":"Genozip Compressed Archive"
+  },
+  {
+  ".ssa":"SubStation Alpha Subtitles"
+  },
+  {
+  ".ass":"Aegisub Advanced SubStation Alpha Subtitles"
+  },
+  {
+  ".psb":"Adobe Photoshop Big Project/PowerDivX Subtitles"
+  },
+  {
+  ".usf":"USF Subtitles"
+  },
+  {
+  ".ssf":"SSF Subtitles"
   }
  ]
 }
